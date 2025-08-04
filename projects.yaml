@@ -640,7 +640,7 @@ projects:
     pypi_id: parsedatetime
     conda_id: conda-forge/parsedatetime
   - name: holidays
-    github_id: dr-prodigy/python-holidays
+    github_id: vacanza/holidays
     category: date-time-utils
     pypi_id: holidays
     conda_id: conda-forge/holidays
