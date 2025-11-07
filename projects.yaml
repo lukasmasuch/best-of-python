@@ -508,6 +508,10 @@ projects:
     category: cli-helpers
     pypi_id: wcwidth
     conda_id: conda-forge/wcwidth
+  - name: onecite
+    github_id: HzaCode/OneCite
+    category: cli-helpers
+    pypi_id: onecite
   - name: typing
     github_id: python/typing
     category: compatibility
