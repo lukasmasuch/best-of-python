@@ -1747,6 +1747,11 @@ projects:
     labels: ["pandas"]
     conda_id: conda-forge/pandera-core
     pypi_id: pandera
+  - name: daffy
+    github_id: vertti/daffy
+    category: data-containers
+    labels: ["pandas"]
+    pypi_id: daffy
   - name: docarray
     github_id: jina-ai/docarray
     category: data-containers
