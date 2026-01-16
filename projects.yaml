@@ -320,6 +320,11 @@ projects:
     category: cli-helpers
     pypi_id: docopt
     conda_id: conda-forge/docopt
+  - name: TermGraph
+    github_id: mkaz/termgraph
+    category: cli-helpers
+    description: A simple Python CLI tool to draw graphs in the terminal.
+
   - name: click
     github_id: pallets/click
     category: cli-helpers
