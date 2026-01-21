@@ -320,6 +320,11 @@ projects:
     category: cli-helpers
     pypi_id: docopt
     conda_id: conda-forge/docopt
+  - name: TermGraph
+    github_id: mkaz/termgraph
+    category: cli-helpers
+    description: A simple Python CLI tool to draw graphs in the terminal.
+
   - name: click
     github_id: pallets/click
     category: cli-helpers
@@ -332,7 +337,7 @@ projects:
     conda_id: conda-forge/clint
   - name: cookiecutter
     github_id: cookiecutter/cookiecutter
-    category: others
+    category: dev-utils
     pypi_id: cookiecutter
     conda_id: conda-forge/cookiecutter
   - name: colout
@@ -1538,6 +1543,7 @@ projects:
     resource: true
     category: text
     homepage: https://github.com/ml-tooling/best-of-ml-python#text-data--nlp
+    category: file-formats
   - name: openpyxl
     pypi_id: openpyxl
     gitlab_id: "https://foss.heptapod.net/api/graphql::openpyxl/openpyxl"
