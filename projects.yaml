@@ -337,7 +337,7 @@ projects:
     conda_id: conda-forge/clint
   - name: cookiecutter
     github_id: cookiecutter/cookiecutter
-    category: others
+    category: dev-utils
     pypi_id: cookiecutter
     conda_id: conda-forge/cookiecutter
   - name: colout
@@ -1543,6 +1543,7 @@ projects:
     resource: true
     category: text
     homepage: https://github.com/ml-tooling/best-of-ml-python#text-data--nlp
+    category: file-formats
   - name: openpyxl
     pypi_id: openpyxl
     gitlab_id: "https://foss.heptapod.net/api/graphql::openpyxl/openpyxl"
