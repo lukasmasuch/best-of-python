@@ -2007,3 +2007,7 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+  - name: Fellow
+    github_id: ManuelZierl/fellow
+    category: cli-helpers
+    pypi_id: fellow
