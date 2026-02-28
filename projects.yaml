@@ -2007,3 +2007,7 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+  - name: dna-claude-analysis
+    github_id: shmlkv/dna-claude-analysis
+    category: utilities
+    description: Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.
