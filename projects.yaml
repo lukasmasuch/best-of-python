@@ -2007,3 +2007,8 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+  - name: Code-Graph-RAG
+    github_id: vitali87/code-graph-rag
+    pypi_id: code-graph-rag
+    category: inspect
+    description: Knowledge graph RAG for multi-language codebase analysis using Tree-sitter and Memgraph.
