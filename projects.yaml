@@ -1034,6 +1034,11 @@ projects:
     category: inspect
     pypi_id: typing_inspect
     conda_id: conda-forge/typing_inspect
+  - name: dttb
+    github_id: rocky-d/dttb
+    category: inspect
+    pypi_id: dttb
+    description: Add timestamps to Python exception tracebacks with a single line of code.
   - name: gsheets-db-api
     github_id: betodealmeida/gsheets-db-api
     category: db-clients
