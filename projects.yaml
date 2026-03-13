@@ -2007,3 +2007,7 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+  - name: Wayback-Archive
+    github_id: GeiserX/Wayback-Archive
+    category: data-loading
+    description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
