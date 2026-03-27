@@ -2007,3 +2007,15 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+  - name: uk-company-number
+    github_id: borschai/uk-company-number
+    pypi_id: uk-company-number
+    npm_id: uk-company-number
+    category: data-validation
+    description: Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes.
+  - name: uk-sic-codes
+    github_id: borschai/uk-sic-codes
+    pypi_id: uk-sic-codes
+    npm_id: uk-sic-codes
+    category: data-validation
+    description: UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections.
