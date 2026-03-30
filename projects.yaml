@@ -2007,3 +2007,9 @@ projects:
     pypi_id: pipeless-ai
     category: computer-vision
     description: An open-source framework to create and deploy computer vision applications in minutes.
+- name: crdt-merge
+  github_id: mgillr/crdt-merge
+  pypi_id: crdt-merge
+  category: data-containers
+  description: "Conflict-free merge for DataFrames, ML models & distributed agents — powered by CRDTs"
+
