@@ -325,6 +325,10 @@ projects:
     category: cli-helpers
     pypi_id: click
     conda_id: conda-forge/click
+  - name: doc-engine-cli
+    github_id: leonardosalasd/doc-engine-cli
+    category: cli-helpers
+    pypi_id: doc-engine-cli
   - name: minify-obfuscate-cli
     github_id: leonardosalasd/minify-obfuscate-cli
     category: cli-helpers
