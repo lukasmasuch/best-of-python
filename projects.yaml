@@ -464,6 +464,10 @@ projects:
     category: caching
     pypi_id: cachetools
     conda_id: conda-forge/cachetools
+  - name: atomic-lru-cache
+    github_id: ElromEvedElElyon/atomic-lru-cache
+    category: caching
+    labels: ["python"]
   - name: questionary
     github_id: tmbo/questionary
     category: cli-helpers
