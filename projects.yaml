@@ -1392,6 +1392,11 @@ projects:
     github_id: camelot-dev/camelot
     category: data-loading
     pypi_id: camelot
+  - name: pdfmux
+    github_id: NameetP/pdfmux
+    category: data-loading
+    pypi_id: pdfmux
+    labels: ["python", "pdf", "markdown"]
   - name: excalibur
     github_id: camelot-dev/excalibur
     category: data-loading
