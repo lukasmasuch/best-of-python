@@ -101,6 +101,11 @@ projects:
     github_id: ml-tooling/best-of-ml-python
     resource: true
     category: machine-learning
+  - name: asqav
+    github_id: jagmarques/asqav-sdk
+    pypi_id: asqav
+    category: cryptography
+    description: AI agent governance with audit trails, policy enforcement, and compliance.
   - name: python-patterns
     github_id: faif/python-patterns
     description: Collection of design patterns/idioms in Python
