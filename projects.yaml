@@ -2006,6 +2006,34 @@ projects:
     github_id: grai-io/grai-core
     pypi_id: the-guide
     category: infrastructure
+  - name: DeployDiff
+    github_id: Coding-Dev-Tools/deploydiff
+    category: infrastructure
+    description: Compare infrastructure deployments across environments to detect drift and prevent inconsistencies.
+  - name: ConfigDrift
+    github_id: Coding-Dev-Tools/configdrift
+    category: infrastructure
+    description: Detect and track configuration drift across infrastructure to maintain consistency and compliance.
+  - name: API Contract Guardian
+    github_id: Coding-Dev-Tools/api-contract-guardian
+    category: infrastructure
+    description: Validate OpenAPI contracts in CI/CD pipelines to prevent breaking changes from reaching production.
+  - name: Envault
+    github_id: Coding-Dev-Tools/envault
+    category: cryptography
+    description: CLI tool for managing encrypted .env files with team sharing and version control.
+  - name: click-to-mcp
+    github_id: Coding-Dev-Tools/click-to-mcp
+    category: cli-helpers
+    description: Auto-wrap Click/Typer CLI tools as MCP servers, making them accessible to AI assistants.
+  - name: Json2SQL
+    github_id: Coding-Dev-Tools/json2sql
+    category: db-clients
+    description: Convert JSON files and API responses to SQL schemas and INSERT statements.
+  - name: SchemaForge
+    github_id: Coding-Dev-Tools/schemaforge
+    category: data-validation
+    description: Validate and generate data schemas from JSON/YAML with automatic inference and linting.
     description: Platform to programmatically manage, test, and debug data infrastructure.
   - name: Pipeless
     github_id: pipeless-ai/pipeless
