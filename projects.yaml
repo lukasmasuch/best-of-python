@@ -911,6 +911,9 @@ projects:
     category: cli-helpers
     pypi_id: typer
     conda_id: conda-forge/typer
+  - name: click-to-mcp
+    github_id: Coding-Dev-Tools/click-to-mcp
+    category: cli-helpers
   - name: keyboard
     github_id: boppreh/keyboard
     category: os-utils
@@ -1767,6 +1770,12 @@ projects:
     category: infrastructure
     conda_id: conda-forge/pypyr
     pypi_id: pypyr
+  - name: deploydiff
+    github_id: Coding-Dev-Tools/deploydiff
+    category: infrastructure
+  - name: configdrift
+    github_id: Coding-Dev-Tools/configdrift
+    category: infrastructure
   - name: dirty-equals
     github_id: samuelcolvin/dirty-equals
     category: data-validation
@@ -2016,3 +2025,27 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: api-contract-guardian
+    github_id: Coding-Dev-Tools/api-contract-guardian
+    category: dev-utils
+    description: Validate API contracts against OpenAPI specs with zero config.
+  - name: json2sql
+    github_id: Coding-Dev-Tools/json2sql
+    category: data-loading
+    description: Convert JSON files to SQL schemas and INSERT statements.
+  - name: deadcode
+    github_id: Coding-Dev-Tools/deadcode
+    category: dev-utils
+    description: Detect and remove dead code from Python projects.
+  - name: datamorph
+    github_id: Coding-Dev-Tools/datamorph
+    category: data-pipelines
+    description: Transform data between formats (CSV, JSON, YAML, Parquet) with a single command.
+  - name: envault
+    github_id: Coding-Dev-Tools/envault
+    category: configuration
+    description: Encrypt and manage .env files with Vault-style security.
+  - name: schemaforge
+    github_id: Coding-Dev-Tools/schemaforge
+    category: data-validation
+    description: Generate JSON Schema from sample data automatically.
