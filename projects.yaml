@@ -911,6 +911,11 @@ projects:
     category: cli-helpers
     pypi_id: typer
     conda_id: conda-forge/typer
+  - name: click-to-mcp
+    github_id: Coding-Dev-Tools/click-to-mcp
+    category: cli-helpers
+    pypi_id: click-to-mcp
+    description: Auto-wrap any Click/typer CLI as an MCP (Model Context Protocol) server.
   - name: keyboard
     github_id: boppreh/keyboard
     category: os-utils
@@ -987,6 +992,11 @@ projects:
     category: cryptography
     pypi_id: tink
     npm_id: tink-crypto
+  - name: apiauth
+    github_id: Coding-Dev-Tools/apiauth
+    category: cryptography
+    pypi_id: apiauth
+    description: CLI tool for API key and JWT lifecycle management — generate, store, verify, rotate, revoke.
   - name: ordered-set
     github_id: rspeer/ordered-set
     category: data-structures
@@ -1034,6 +1044,11 @@ projects:
     category: inspect
     pypi_id: typing_inspect
     conda_id: conda-forge/typing_inspect
+  - name: deadcode
+    github_id: Coding-Dev-Tools/deadcode
+    category: inspect
+    pypi_id: deadcode
+    description: Detect and remove dead code in TypeScript/React projects — unused exports, orphaned CSS, dead routes.
   - name: gsheets-db-api
     github_id: betodealmeida/gsheets-db-api
     category: db-clients
@@ -1591,6 +1606,21 @@ projects:
     github_id: samuelcolvin/rtoml
     category: serialization
     pypi_id: rtoml
+  - name: json2sql
+    github_id: Coding-Dev-Tools/json2sql-cli
+    category: serialization
+    pypi_id: json2sql-cli
+    description: Convert JSON files to SQL INSERT statements with automatic type inference and nested object flattening.
+  - name: schemaforge
+    github_id: Coding-Dev-Tools/schemaforge
+    category: serialization
+    pypi_id: rh-schemaforge
+    description: Bidirectional converter between 11 schema formats — SQL DDL, Prisma, Drizzle, TypeORM, Django, SQLAlchemy, JSON Schema, GraphQL SDL, and more.
+  - name: datamorph
+    github_id: Coding-Dev-Tools/datamorph
+    category: serialization
+    pypi_id: datamorph-cli
+    description: Convert between data formats (CSV, JSON, Parquet, YAML, Avro, XML) with streaming and schema inference.
   - name: Copier
     github_id: copier-org/copier
     pypi_id: copier
@@ -1773,6 +1803,11 @@ projects:
     conda_id: conda-forge/dirty-equals
     pypi_id: dirty-equals
   - name: everett
+  - name: api-contract-guardian
+    github_id: Coding-Dev-Tools/api-contract-guardian
+    category: data-validation
+    pypi_id: api-contract-guardian
+    description: Validate API implementations against OpenAPI specs with zero config.
     github_id: willkg/everett
     category: configuration
     conda_id: conda-forge/everett
@@ -2007,6 +2042,21 @@ projects:
     pypi_id: the-guide
     category: infrastructure
     description: Platform to programmatically manage, test, and debug data infrastructure.
+  - name: deploydiff
+    github_id: Coding-Dev-Tools/deploydiff
+    category: infrastructure
+    pypi_id: deploydiff
+    description: Preview infrastructure changes with diffs, cost impact, and rollback commands before deploying.
+  - name: configdrift
+    github_id: Coding-Dev-Tools/configdrift
+    category: configuration
+    pypi_id: configdrift
+    description: Compare configs across environments, flag drift, and report compliance violations before incidents.
+  - name: envault
+    github_id: Coding-Dev-Tools/envault
+    category: configuration
+    pypi_id: rh-envault
+    description: Encrypt, sync, and rotate .env files across environments with a single master key.
   - name: Pipeless
     github_id: pipeless-ai/pipeless
     pypi_id: pipeless-ai
