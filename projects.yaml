@@ -371,6 +371,22 @@ projects:
     github_id: pulumi/pulumi
     category: infrastructure
     pypi_id: pulumi
+  - name: DeployDiff
+    github_id: Coding-Dev-Tools/deploydiff
+    category: infrastructure
+    pypi_id: deploydiff
+  - name: ConfigDrift
+    github_id: Coding-Dev-Tools/configdrift
+    category: infrastructure
+    pypi_id: configdrift
+  - name: API Contract Guardian
+    github_id: Coding-Dev-Tools/api-contract-guardian
+    category: infrastructure
+    pypi_id: api-contract-guardian
+  - name: APIGhost
+    github_id: Coding-Dev-Tools/apighost
+    category: infrastructure
+    pypi_id: apighost
     npm_id: '@pulumi/pulumi'
   - name: plumbum
     github_id: tomerfiliba/plumbum
@@ -1772,6 +1788,10 @@ projects:
     category: data-validation
     conda_id: conda-forge/dirty-equals
     pypi_id: dirty-equals
+  - name: SchemaForge
+    github_id: Coding-Dev-Tools/schemaforge
+    category: data-validation
+    pypi_id: schemaforge-py
   - name: everett
     github_id: willkg/everett
     category: configuration
