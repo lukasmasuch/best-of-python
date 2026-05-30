@@ -1464,7 +1464,7 @@ projects:
     github_id: yfedoseev/pdf_oxide
     category: data-loading
     pypi_id: pdf-oxide
-    description: "Fast PDF library for text extraction, image extraction, and markdown conversion. Rust-powered, 2.1ms mean latency."
+    description: "Fast PDF library for text extraction, image extraction, and markdown conversion. Rust-powered, 0.8ms mean latency."
     license: MIT
   - name: PDFMiner
     github_id: euske/pdfminer
