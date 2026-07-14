@@ -2016,3 +2016,8 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: bernstein
+    github_id: sipyourdrink-ltd/bernstein
+    pypi_id: bernstein
+    category: infrastructure
+    description: Deterministic orchestrator that runs multiple CLI coding agents (Claude Code, Codex, Gemini CLI) in parallel with git worktrees and signed audit logs.
