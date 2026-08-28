@@ -1989,6 +1989,12 @@ projects:
     github_id: vincentclaes/datajob
     pypi_id: datajob
     category: data-pipelines
+  - name: Dotflow
+    github_id: dotflow-io/dotflow
+    pypi_id: dotflow
+    category: data-pipelines
+    description: Lightweight Python library for building execution pipelines with retry,
+      parallel execution, cron scheduling, and async support.
   - name: Squirrel
     github_id: merantix-momentum/squirrel-core
     pypi_id: squirrel-core
