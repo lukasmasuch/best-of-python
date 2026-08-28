@@ -2016,3 +2016,9 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: MovingPandas
+    github_id: movingpandas/movingpandas
+    pypi_id: movingpandas
+    conda_id: conda-forge/movingpandas
+    category: data-containers
+    labels: ["pandas"]
