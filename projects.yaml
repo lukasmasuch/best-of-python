@@ -2016,8 +2016,8 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
-- name: indexgap
-  github_id: borisowlexa2010-star/IndexGap
-  pypi_id: indexgap
-  category: web-dev
-  description: Lint your programmatic SEO pipeline — from keywords to indexed pages. No dependencies.
+  - name: indexgap
+    github_id: borisowlexa2010-star/IndexGap
+    pypi_id: indexgap
+    category: web-dev
+    description: "Lint your programmatic SEO pipeline — from keywords to indexed pages. No dependencies."
