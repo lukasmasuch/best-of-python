@@ -2016,3 +2016,6 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: Pythonlings
+    github_id: abhiksark/pythonlings
+    pypi_id: pythonlings
