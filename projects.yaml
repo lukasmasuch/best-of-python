@@ -2018,6 +2018,6 @@ projects:
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
   - name: python-obfuscator-virtualizer
     github_id: PELock/Python-Obfuscator
-    category: cryptography
+    category: dev-utils
     pypi_id: python-obfuscator-virtualizer
     
