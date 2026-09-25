@@ -2016,3 +2016,8 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: WriterAgent
+    github_id: KeithCu/writeragent
+    category: text
+    description: LibreOffice extension adding agentic AI and NumPy features.
+
