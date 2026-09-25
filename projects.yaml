@@ -2016,3 +2016,7 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+- name: DeepAlpha
+  github_id: stefanoviana/deepalpha
+  category: machine-learning
+  description: AI crypto trading bot with ML ensemble (XGBoost, LightGBM), 72 features, pump scanner, Grid/DCA bots, 12 exchanges.
