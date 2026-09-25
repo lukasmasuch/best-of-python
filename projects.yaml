@@ -2016,3 +2016,7 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: oracle3
+    github_id: YichengYang-Ethan/oracle3
+    category: machine-learning
+    description: Autonomous prediction-market trading agent applying the Wang Transform pricing model (calibrated on 291k resolved contracts) across Kalshi, Polymarket, and Solana, with hierarchical MLE, model Greeks, Kelly-sized execution, and eight constraint-based arbitrage strategies.
