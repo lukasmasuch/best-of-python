@@ -2016,3 +2016,9 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: YYLO Ledger
+    github_id: yylo-dev/yylo-ledger
+    category: dev-utils
+    pypi_id: yylo-ledger
+    labels: ["python", "cli", "task-management"]
+    description: Git-native task, workflow, receipt, and archive ledger.
