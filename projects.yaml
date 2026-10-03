@@ -1522,6 +1522,10 @@ projects:
     category: utilities
     pypi_id: dependency-injector
     conda_id: conda-forge/dependency_injector
+  - name: tlgr
+    github_id: tlgrcli/tlgr
+    category: utilities
+    pypi_id: tlgr-cli
   - name: phonenumbers
     github_id: daviddrysdale/python-phonenumbers
     category: text
