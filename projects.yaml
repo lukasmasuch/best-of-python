@@ -896,6 +896,10 @@ projects:
     category: utilities
     pypi_id: retrying
     conda_id: conda-forge/retrying
+  - name: pyresilience
+    github_id: AhsanSheraz/pyresilience
+    category: utilities
+    pypi_id: pyresilience
   - name: natsort
     github_id: SethMMorton/natsort
     category: utilities
