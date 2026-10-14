@@ -2016,3 +2016,7 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: traceburn
+    github_id: TommyTranX/traceburn
+    pypi_id: traceburn
+    description: Local-first tracer and cost profiler for AI agents; finds and quantifies wasted LLM spend and prints fixes for common waste patterns.
