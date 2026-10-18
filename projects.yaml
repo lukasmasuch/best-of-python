@@ -422,6 +422,9 @@ projects:
     category: data-validation
     pypi_id: pydantic
     conda_id: conda-forge/pydantic
+  - name: canonical-ledger-schema
+    github_id: suguobin2021/canonical-ledger-schema
+    category: data-validation
   - name: uvloop
     github_id: MagicStack/uvloop
     category: async
