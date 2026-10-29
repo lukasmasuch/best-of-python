@@ -2016,3 +2016,8 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: oracle3
+    github_id: YichengYang-Ethan/oracle3-prediction-market-agent
+    pypi_id: oracle3
+    category: machine-learning
+    description: Trading engine and MCP server for prediction markets with fee-aware no-arbitrage checks across Kalshi, Polymarket, and Solana.
