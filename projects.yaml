@@ -2019,5 +2019,4 @@ projects:
   - name: faxforagents
     github_id: faxforagents/sdk-python
     pypi_id: faxforagents
-    category: web-dev
     description: Python client for Fax for Agents, a fax API, hosted MCP server and SDKs so AI agents can send and receive faxes.
