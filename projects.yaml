@@ -733,6 +733,10 @@ projects:
     category: inspect
     pypi_id: deepdiff
     conda_id: conda-forge/deepdiff
+  - name: keepdelta
+    github_id: aslan-ng/keepdelta
+    category: inspect
+    pypi_id: keepdelta
   - name: entrypoints
     github_id: takluyver/entrypoints
     category: inspect
