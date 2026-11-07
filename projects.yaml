@@ -1777,6 +1777,11 @@ projects:
     category: configuration
     conda_id: conda-forge/everett
     pypi_id: everett
+  - name: mloda
+    github_id: mloda-ai/mloda
+    category: data-pipelines
+    pypi_id: mloda
+    labels: ["feature-engineering"]
   - name: RasgoQL
     github_id: rasgointelligence/RasgoQL
     category: data-pipelines
