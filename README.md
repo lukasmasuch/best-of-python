@@ -99,7 +99,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	conda install -c conda-forge protobuf
 	```
-- [npm](https://www.npmjs.com/package/google-protobuf) (📥 29M / month · 📦 4K · ⏱️ 17.09.2026):
+- [npm](https://www.npmjs.com/package/google-protobuf) (📥 34M / month · 📦 4K · ⏱️ 17.09.2026):
 	```
 	npm install google-protobuf
 	```
@@ -115,11 +115,11 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install flatbuffers
 	```
-- [Conda](https://anaconda.org/conda-forge/flatbuffers) (📥 2.8M · ⏱️ 22.12.2025):
+- [Conda](https://anaconda.org/conda-forge/flatbuffers) (📥 2.9M · ⏱️ 22.12.2025):
 	```
 	conda install -c conda-forge flatbuffers
 	```
-- [npm](https://www.npmjs.com/package/flatbuffers) (📥 51M / month · 📦 290 · ⏱️ 24.09.2025):
+- [npm](https://www.npmjs.com/package/flatbuffers) (📥 61M / month · 📦 290 · ⏱️ 24.09.2025):
 	```
 	npm install flatbuffers
 	```
@@ -135,14 +135,14 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install orjson
 	```
-- [Conda](https://anaconda.org/conda-forge/orjson) (📥 8.5M · ⏱️ 15.10.2026):
+- [Conda](https://anaconda.org/conda-forge/orjson) (📥 8.7M · ⏱️ 15.10.2026):
 	```
 	conda install -c conda-forge orjson
 	```
 </details>
 <details><summary><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b> (🥈33 ·  ⭐ 7.2K) - A lightweight library for converting complex objects to and from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/marshmallow-code/marshmallow) (👨‍💻 230 · 🔀 780 · 📦 230K):
+- [GitHub](https://github.com/marshmallow-code/marshmallow) (👨‍💻 230 · 🔀 790 · 📦 230K):
 
 	```
 	git clone https://github.com/marshmallow-code/marshmallow
@@ -158,23 +158,23 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/simplejson/simplejson">simplejson</a></b> (🥈32 ·  ⭐ 1.7K) - simplejson is a simple, fast, extensible JSON encoder/decoder for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/simplejson/simplejson) (👨‍💻 63 · 🔀 360 · 📦 150K):
+- [GitHub](https://github.com/simplejson/simplejson) (👨‍💻 63 · 🔀 370 · 📦 150K):
 
 	```
 	git clone https://github.com/simplejson/simplejson
 	```
-- [PyPi](https://pypi.org/project/simplejson) (📥 42M / month · 📦 3K · ⏱️ 03.10.2026):
+- [PyPi](https://pypi.org/project/simplejson) (📥 42M / month · 📦 3K · ⏱️ 10.11.2026):
 	```
 	pip install simplejson
 	```
-- [Conda](https://anaconda.org/conda-forge/simplejson) (📥 6M · ⏱️ 03.10.2026):
+- [Conda](https://anaconda.org/conda-forge/simplejson) (📥 6M · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge simplejson
 	```
 </details>
 <details><summary><b><a href="https://github.com/cloudpipe/cloudpickle">cloudpickle</a></b> (🥈31 ·  ⭐ 2K) - Extended pickling support for Python objects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/cloudpipe/cloudpickle) (👨‍💻 85 · 🔀 210 · 📦 170K):
+- [GitHub](https://github.com/cloudpipe/cloudpickle) (👨‍💻 85 · 🔀 210 · 📦 180K):
 
 	```
 	git clone https://github.com/cloudpipe/cloudpickle
@@ -183,7 +183,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install cloudpickle
 	```
-- [Conda](https://anaconda.org/conda-forge/cloudpickle) (📥 43M · ⏱️ 09.12.2025):
+- [Conda](https://anaconda.org/conda-forge/cloudpickle) (📥 44M · ⏱️ 09.12.2025):
 	```
 	conda install -c conda-forge cloudpickle
 	```
@@ -199,14 +199,14 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install pyasn1
 	```
-- [Conda](https://anaconda.org/conda-forge/pyasn1) (📥 26M · ⏱️ 27.10.2026):
+- [Conda](https://anaconda.org/conda-forge/pyasn1) (📥 27M · ⏱️ 27.10.2026):
 	```
 	conda install -c conda-forge pyasn1
 	```
 </details>
 <details><summary><b><a href="https://github.com/uqfoundation/dill">dill</a></b> (🥉30 ·  ⭐ 2.4K) - serialize all of Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/uqfoundation/dill) (👨‍💻 60 · 🔀 190 · 📦 260K):
+- [GitHub](https://github.com/uqfoundation/dill) (👨‍💻 62 · 🔀 190 · 📦 260K):
 
 	```
 	git clone https://github.com/uqfoundation/dill
@@ -215,7 +215,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install dill
 	```
-- [Conda](https://anaconda.org/conda-forge/dill) (📥 22M · ⏱️ 19.01.2026):
+- [Conda](https://anaconda.org/conda-forge/dill) (📥 23M · ⏱️ 19.01.2026):
 	```
 	conda install -c conda-forge dill
 	```
@@ -231,14 +231,14 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 	```
 	pip install jsonpickle
 	```
-- [Conda](https://anaconda.org/conda-forge/jsonpickle) (📥 2.5M · ⏱️ 15.10.2026):
+- [Conda](https://anaconda.org/conda-forge/jsonpickle) (📥 2.6M · ⏱️ 15.10.2026):
 	```
 	conda install -c conda-forge jsonpickle
 	```
 </details>
 <details><summary><b><a href="https://github.com/explosion/srsly">srsly</a></b> (🥉27 ·  ⭐ 490) - Modern high-performance serialization utilities for Python (JSON,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/explosion/srsly) (👨‍💻 17 · 🔀 43 · 📦 70K):
+- [GitHub](https://github.com/explosion/srsly) (👨‍💻 17 · 🔀 43 · 📦 71K):
 
 	```
 	git clone https://github.com/explosion/srsly
@@ -254,7 +254,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/python-rapidjson/python-rapidjson">python-rapidjson</a></b> (🥉26 ·  ⭐ 530) - Python wrapper around rapidjson. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/python-rapidjson/python-rapidjson) (👨‍💻 34 · 🔀 59 · 📦 8.2K):
+- [GitHub](https://github.com/python-rapidjson/python-rapidjson) (👨‍💻 34 · 🔀 59 · 📦 8.3K):
 
 	```
 	git clone https://github.com/python-rapidjson/python-rapidjson
@@ -300,7 +300,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 - <b><a href="https://github.com/msgpack/msgpack-python">msgpack</a></b> (🥉29 ·  ⭐ 2.1K) - MessagePack serializer implementation for Python.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ultrajson/ultrajson">ultrajson</a></b> (🥉27 ·  ⭐ 4.5K) - Ultra fast JSON decoder and encoder written in C with Python.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/TkTech/pysimdjson">pysimdjson</a></b> (🥉21 ·  ⭐ 710) - Python bindings for the simdjson project. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/TkTech/pysimdjson">pysimdjson</a></b> (🥉22 ·  ⭐ 780) - Python bindings for the simdjson project. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -349,14 +349,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install h5py
 	```
-- [Conda](https://anaconda.org/conda-forge/h5py) (📥 32M · ⏱️ 01.10.2026):
+- [Conda](https://anaconda.org/conda-forge/h5py) (📥 33M · ⏱️ 01.10.2026):
 	```
 	conda install -c conda-forge h5py
 	```
 </details>
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥈32 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pydata/xarray) (👨‍💻 690 · 🔀 1.4K · 📦 47K):
+- [GitHub](https://github.com/pydata/xarray) (👨‍💻 700 · 🔀 1.4K · 📦 47K):
 
 	```
 	git clone https://github.com/pydata/xarray
@@ -404,7 +404,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/zarr-developers/zarr-python">zarr</a></b> (🥈30 ·  ⭐ 2.1K) - An implementation of chunked, compressed, N-dimensional arrays for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zarr-developers/zarr-python) (👨‍💻 200 · 🔀 480 · 📦 9.6K):
+- [GitHub](https://github.com/zarr-developers/zarr-python) (👨‍💻 200 · 🔀 480 · 📦 9.7K):
 
 	```
 	git clone https://github.com/zarr-developers/zarr-python
@@ -413,7 +413,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install zarr
 	```
-- [Conda](https://anaconda.org/conda-forge/zarr) (📥 7M · ⏱️ 27.10.2026):
+- [Conda](https://anaconda.org/conda-forge/zarr) (📥 7.1M · ⏱️ 27.10.2026):
 	```
 	conda install -c conda-forge zarr
 	```
@@ -429,7 +429,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install Bottleneck
 	```
-- [Conda](https://anaconda.org/conda-forge/bottleneck) (📥 8.2M · ⏱️ 11.09.2026):
+- [Conda](https://anaconda.org/conda-forge/bottleneck) (📥 8.5M · ⏱️ 11.09.2026):
 	```
 	conda install -c conda-forge bottleneck
 	```
@@ -457,23 +457,23 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install tables
 	```
-- [Conda](https://anaconda.org/conda-forge/pytables) (📥 14M · ⏱️ 11.09.2026):
+- [Conda](https://anaconda.org/conda-forge/pytables) (📥 14M · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge pytables
 	```
 </details>
-<details><summary><b><a href="https://github.com/vaexio/vaex">Vaex</a></b> (🥉24 ·  ⭐ 8.5K · 💤) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vaexio/vaex">Vaex</a></b> (🥉26 ·  ⭐ 8.5K · 📈) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vaexio/vaex) (👨‍💻 79 · 🔀 600 · 📦 1K):
 
 	```
 	git clone https://github.com/vaexio/vaex
 	```
-- [PyPi](https://pypi.org/project/vaex) (📥 8.8K / month · 📦 68 · ⏱️ 03.02.2026):
+- [PyPi](https://pypi.org/project/vaex) (📥 8.8K / month · 📦 69 · ⏱️ 05.11.2026):
 	```
 	pip install vaex
 	```
-- [Conda](https://anaconda.org/conda-forge/vaex) (📥 650K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/vaex) (📥 650K · ⏱️ 06.11.2026):
 	```
 	conda install -c conda-forge vaex
 	```
@@ -508,7 +508,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/static-frame/static-frame">StaticFrame</a></b> (🥉19 ·  ⭐ 480) - Immutable and statically-typeable DataFrames with runtime type and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 31 · 🔀 38 · 📦 33):
+- [GitHub]() (👨‍💻 31 · 🔀 38 · 📦 34):
 
 	```
 	git clone https://github.com/InvestmentSystems/static-frame
@@ -559,7 +559,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install multidict
 	```
-- [Conda](https://anaconda.org/conda-forge/multidict) (📥 33M · ⏱️ 26.10.2026):
+- [Conda](https://anaconda.org/conda-forge/multidict) (📥 34M · ⏱️ 12.11.2026):
 	```
 	conda install -c conda-forge multidict
 	```
@@ -660,7 +660,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	conda install -c conda-forge anytree
 	```
 </details>
-<details><summary><b><a href="https://github.com/cdgriffith/Box">python-box</a></b> (🥉24 ·  ⭐ 2.8K · 📈) - Python dictionaries with advanced dot notation access. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/cdgriffith/Box">python-box</a></b> (🥉24 ·  ⭐ 2.8K) - Python dictionaries with advanced dot notation access. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/cdgriffith/Box) (👨‍💻 1 · 🔀 150):
 
@@ -687,7 +687,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install immutables
 	```
-- [Conda](https://anaconda.org/conda-forge/immutables) (📥 2.1M · ⏱️ 05.09.2026):
+- [Conda](https://anaconda.org/conda-forge/immutables) (📥 2.2M · ⏱️ 05.09.2026):
 	```
 	conda install -c conda-forge immutables
 	```
@@ -703,7 +703,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install janus
 	```
-- [Conda](https://anaconda.org/conda-forge/janus) (📥 300K · ⏱️ 22.04.2025):
+- [Conda](https://anaconda.org/conda-forge/janus) (📥 310K · ⏱️ 22.04.2025):
 	```
 	conda install -c conda-forge janus
 	```
@@ -733,14 +733,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install pydantic
 	```
-- [Conda](https://anaconda.org/conda-forge/pydantic) (📥 35M · ⏱️ 30.10.2026):
+- [Conda](https://anaconda.org/conda-forge/pydantic) (📥 36M · ⏱️ 05.11.2026):
 	```
 	conda install -c conda-forge pydantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/python-jsonschema/jsonschema">jsonschema</a></b> (🥇31 ·  ⭐ 5K · 📉) - An implementation of JSON Schema validation for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/python-jsonschema/jsonschema">jsonschema</a></b> (🥇31 ·  ⭐ 5K) - An implementation of JSON Schema validation for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 120 · 🔀 630 · 📦 870K):
+- [GitHub]() (👨‍💻 120 · 🔀 630 · 📦 880K):
 
 	```
 	git clone https://github.com/Julian/jsonschema
@@ -765,7 +765,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install validators
 	```
-- [Conda](https://anaconda.org/conda-forge/validators) (📥 1.7M · ⏱️ 11.10.2026):
+- [Conda](https://anaconda.org/conda-forge/validators) (📥 1.8M · ⏱️ 11.10.2026):
 	```
 	conda install -c conda-forge validators
 	```
@@ -781,7 +781,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install voluptuous
 	```
-- [Conda](https://anaconda.org/conda-forge/voluptuous) (📥 1M · ⏱️ 06.09.2026):
+- [Conda](https://anaconda.org/conda-forge/voluptuous) (📥 1.1M · ⏱️ 06.09.2026):
 	```
 	conda install -c conda-forge voluptuous
 	```
@@ -813,7 +813,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install schema
 	```
-- [Conda](https://anaconda.org/conda-forge/schema) (📥 840K · ⏱️ 20.07.2026):
+- [Conda](https://anaconda.org/conda-forge/schema) (📥 860K · ⏱️ 20.07.2026):
 	```
 	conda install -c conda-forge schema
 	```
@@ -913,7 +913,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/scrapinghub/dateparser">dateparser</a></b> (🥇32 ·  ⭐ 2.9K) - python parser for human readable dates. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/scrapinghub/dateparser) (👨‍💻 170 · 🔀 530 · 📦 40K):
+- [GitHub](https://github.com/scrapinghub/dateparser) (👨‍💻 170 · 🔀 530 · 📦 41K):
 
 	```
 	git clone https://github.com/scrapinghub/dateparser
@@ -922,7 +922,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install dateparser
 	```
-- [Conda](https://anaconda.org/conda-forge/dateparser) (📥 2.9M · ⏱️ 04.11.2026):
+- [Conda](https://anaconda.org/conda-forge/dateparser) (📥 3M · ⏱️ 04.11.2026):
 	```
 	conda install -c conda-forge dateparser
 	```
@@ -954,19 +954,19 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install pytz
 	```
-- [Conda](https://anaconda.org/conda-forge/pytz) (📥 100M · ⏱️ 29.10.2026):
+- [Conda](https://anaconda.org/conda-forge/pytz) (📥 110M · ⏱️ 29.10.2026):
 	```
 	conda install -c conda-forge pytz
 	```
 </details>
 <details><summary><b><a href="https://github.com/vacanza/holidays">holidays</a></b> (🥉31 ·  ⭐ 2K) - Open World Holidays Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vacanza/holidays) (👨‍💻 370 · 🔀 750 · 📦 28K):
+- [GitHub](https://github.com/vacanza/holidays) (👨‍💻 380 · 🔀 770 · 📦 28K):
 
 	```
 	git clone https://github.com/vacanza/holidays
 	```
-- [PyPi](https://pypi.org/project/holidays) (📥 27M / month · 📦 730 · ⏱️ 02.11.2026):
+- [PyPi](https://pypi.org/project/holidays) (📥 27M / month · 📦 740 · ⏱️ 12.11.2026):
 	```
 	pip install holidays
 	```
@@ -1002,7 +1002,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install tzlocal
 	```
-- [Conda](https://anaconda.org/conda-forge/tzlocal) (📥 8.5M · ⏱️ 22.10.2026):
+- [Conda](https://anaconda.org/conda-forge/tzlocal) (📥 8.6M · ⏱️ 22.10.2026):
 	```
 	conda install -c conda-forge tzlocal
 	```
@@ -1034,9 +1034,9 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	conda install -c conda-forge fsspec
 	```
 </details>
-<details><summary><b><a href="https://github.com/gorakhargosh/watchdog">watchdog</a></b> (🥈33 ·  ⭐ 7.4K · 📈) - Python library and shell utilities to monitor filesystem events. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/gorakhargosh/watchdog">watchdog</a></b> (🥈33 ·  ⭐ 7.4K) - Python library and shell utilities to monitor filesystem events. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/gorakhargosh/watchdog) (👨‍💻 200 · 🔀 810 · 📦 280K):
+- [GitHub](https://github.com/gorakhargosh/watchdog) (👨‍💻 210 · 🔀 810 · 📦 280K):
 
 	```
 	git clone https://github.com/gorakhargosh/watchdog
@@ -1045,7 +1045,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install watchdog
 	```
-- [Conda](https://anaconda.org/conda-forge/watchdog) (📥 6.8M · ⏱️ 02.11.2026):
+- [Conda](https://anaconda.org/conda-forge/watchdog) (📥 6.8M · ⏱️ 08.11.2026):
 	```
 	conda install -c conda-forge watchdog
 	```
@@ -1057,11 +1057,11 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/tox-dev/py-filelock
 	```
-- [PyPi](https://pypi.org/project/filelock) (📥 500M / month · 📦 6.8K · ⏱️ 04.11.2026):
+- [PyPi](https://pypi.org/project/filelock) (📥 500M / month · 📦 6.8K · ⏱️ 09.11.2026):
 	```
 	pip install filelock
 	```
-- [Conda](https://anaconda.org/conda-forge/filelock) (📥 56M · ⏱️ 04.11.2026):
+- [Conda](https://anaconda.org/conda-forge/filelock) (📥 57M · ⏱️ 04.11.2026):
 	```
 	conda install -c conda-forge filelock
 	```
@@ -1120,7 +1120,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 - <b><a href="https://github.com/jazzband/pathlib2">pathlib2</a></b> (🥉25 ·  ⭐ 86) - Backport of pathlib aiming to support the full stdlib Python API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ericvsmith/dataclasses">dataclasses</a></b> (🥉24 ·  ⭐ 590 · 💀) - A backport of the dataclasses module for Python 3.6. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/agronholm/pythonfutures">futures</a></b> (🥉24 ·  ⭐ 240 · 💀) - Backport of the concurrent.futures package to Python 2.6 and 2.7. <code><a href="http://bit.ly/35wkF7y">Python-2.0</a></code>
-- <b><a href="https://github.com/jazzband/contextlib2">contextlib2</a></b> (🥉23 ·  ⭐ 39 · 💀) - contextlib2 is a backport of the standard librarys contextlib.. <code><a href="https://tldrlegal.com/search?q=psfrag">❗️psfrag</a></code>
+- <b><a href="https://github.com/jazzband/contextlib2">contextlib2</a></b> (🥉24 ·  ⭐ 39) - contextlib2 is a backport of the standard librarys contextlib.. <code><a href="https://tldrlegal.com/search?q=psfrag">❗️psfrag</a></code>
 </details>
 <br>
 
@@ -1130,12 +1130,12 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 
 <details><summary><b><a href="https://github.com/Legrandin/pycryptodome">pycryptodomex</a></b> (🥈33 ·  ⭐ 3.3K) - A self-contained cryptographic library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/Legrandin/pycryptodome) (👨‍💻 170 · 🔀 580 · 📦 150K):
+- [GitHub](https://github.com/Legrandin/pycryptodome) (👨‍💻 180 · 🔀 580 · 📦 150K):
 
 	```
 	git clone https://github.com/Legrandin/pycryptodome
 	```
-- [PyPi](https://pypi.org/project/pycryptodomex) (📥 47M / month · 📦 1.8K · ⏱️ 11.10.2026):
+- [PyPi](https://pypi.org/project/pycryptodomex) (📥 47M / month · 📦 1.9K · ⏱️ 05.11.2026):
 	```
 	pip install pycryptodomex
 	```
@@ -1181,11 +1181,11 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/boto/botocore
 	```
-- [PyPi](https://pypi.org/project/botocore) (📥 840M / month · 📦 5.1K · ⏱️ 04.11.2026):
+- [PyPi](https://pypi.org/project/botocore) (📥 840M / month · 📦 5.1K · ⏱️ 11.11.2026):
 	```
 	pip install botocore
 	```
-- [Conda](https://anaconda.org/conda-forge/botocore) (📥 54M · ⏱️ 03.11.2026):
+- [Conda](https://anaconda.org/conda-forge/botocore) (📥 54M · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge botocore
 	```
@@ -1197,13 +1197,29 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/ansible/ansible
 	```
-- [PyPi](https://pypi.org/project/ansible) (📥 7.7M / month · 📦 610 · ⏱️ 04.11.2026):
+- [PyPi](https://pypi.org/project/ansible) (📥 7.7M / month · 📦 610 · ⏱️ 10.11.2026):
 	```
 	pip install ansible
 	```
 - [Conda](https://anaconda.org/conda-forge/ansible) (📥 2.1M · ⏱️ 05.11.2026):
 	```
 	conda install -c conda-forge ansible
+	```
+</details>
+<details><summary><b><a href="https://github.com/pulumi/pulumi">pulumi</a></b> (🥈34 ·  ⭐ 26K) - Pulumi - Infrastructure as Code in any programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/pulumi/pulumi) (👨‍💻 5.4K · 🔀 1.5K · 📦 12K):
+
+	```
+	git clone https://github.com/pulumi/pulumi
+	```
+- [PyPi](https://pypi.org/project/pulumi) (📥 6.4M / month · 📦 640 · ⏱️ 12.11.2026):
+	```
+	pip install pulumi
+	```
+- [npm](https://www.npmjs.com/package/@pulumi/pulumi) (📥 18M / month · 📦 930 · ⏱️ 12.11.2026):
+	```
+	npm install @pulumi/pulumi
 	```
 </details>
 <details><summary><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b> (🥈34 ·  ⭐ 9.9K) - The leading native Python SSHv2 protocol library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
@@ -1222,23 +1238,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	conda install -c conda-forge paramiko
 	```
 </details>
-<details><summary><b><a href="https://github.com/pulumi/pulumi">pulumi</a></b> (🥈33 ·  ⭐ 26K) - Pulumi - Infrastructure as Code in any programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/pulumi/pulumi) (👨‍💻 5.2K · 🔀 1.5K · 📦 12K):
-
-	```
-	git clone https://github.com/pulumi/pulumi
-	```
-- [PyPi](https://pypi.org/project/pulumi) (📥 6.4M / month · 📦 630 · ⏱️ 04.11.2026):
-	```
-	pip install pulumi
-	```
-- [npm](https://www.npmjs.com/package/@pulumi/pulumi) (📥 15M / month · 📦 930 · ⏱️ 04.11.2026):
-	```
-	npm install @pulumi/pulumi
-	```
-</details>
-<details><summary><b><a href="https://github.com/docker/docker-py">docker</a></b> (🥈33 ·  ⭐ 7.2K · 📉) - A Python library for the Docker Engine API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/docker/docker-py">docker</a></b> (🥈33 ·  ⭐ 7.2K) - A Python library for the Docker Engine API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/docker/docker-py) (👨‍💻 460 · 🔀 1.7K · 📦 130K):
 
@@ -1256,16 +1256,16 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/aws/aws-cli">awscli</a></b> (🥈31 ·  ⭐ 17K) - Universal Command Line Interface for Amazon Web Services. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aws/aws-cli) (👨‍💻 520 · 🔀 4.7K · 📦 5):
+- [GitHub](https://github.com/aws/aws-cli) (👨‍💻 520 · 🔀 4.8K · 📦 5):
 
 	```
 	git clone https://github.com/aws/aws-cli
 	```
-- [PyPi](https://pypi.org/project/awscli) (📥 86M / month · 📦 780 · ⏱️ 21.10.2026):
+- [PyPi](https://pypi.org/project/awscli) (📥 86M / month · 📦 780 · ⏱️ 05.11.2026):
 	```
 	pip install awscli
 	```
-- [Conda](https://anaconda.org/conda-forge/awscli) (📥 65M · ⏱️ 27.10.2026):
+- [Conda](https://anaconda.org/conda-forge/awscli):
 	```
 	conda install -c conda-forge awscli
 	```
@@ -1277,7 +1277,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/kubernetes-client/python
 	```
-- [PyPi](https://pypi.org/project/kubernetes) (📥 73M / month · 📦 2.7K · ⏱️ 09.10.2026):
+- [PyPi](https://pypi.org/project/kubernetes) (📥 73M / month · 📦 2.8K · ⏱️ 06.11.2026):
 	```
 	pip install kubernetes
 	```
@@ -1309,14 +1309,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install sshtunnel
 	```
-- [Conda](https://anaconda.org/conda-forge/sshtunnel) (📥 510K · ⏱️ 09.10.2026):
+- [Conda](https://anaconda.org/conda-forge/sshtunnel) (📥 520K · ⏱️ 09.10.2026):
 	```
 	conda install -c conda-forge sshtunnel
 	```
 </details>
 <details><summary><b><a href="https://github.com/docker/compose">docker-compose</a></b> (🥉28 ·  ⭐ 39K) - Define and run multi-container applications with Docker. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/docker/compose) (👨‍💻 690 · 🔀 5.9K · 📦 330):
+- [GitHub](https://github.com/docker/compose) (👨‍💻 700 · 🔀 5.9K · 📦 340):
 
 	```
 	git clone https://github.com/docker/compose
@@ -1325,7 +1325,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install docker-compose
 	```
-- [Conda](https://anaconda.org/conda-forge/docker-compose) (📥 960K · ⏱️ 03.11.2026):
+- [Conda](https://anaconda.org/conda-forge/docker-compose) (📥 970K · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge docker-compose
 	```
@@ -1357,19 +1357,19 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install fabric
 	```
-- [Conda](https://anaconda.org/conda-forge/fabric) (📥 800K · ⏱️ 06.04.2026):
+- [Conda](https://anaconda.org/conda-forge/fabric) (📥 820K · ⏱️ 06.04.2026):
 	```
 	conda install -c conda-forge fabric
 	```
 </details>
-<details><summary><b><a href="https://pyinfra.com">pyinfra</a></b> (🥉23 ·  ⭐ 5.9K) - pyinfra automates/provisions/manages/deploys infrastructure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://pyinfra.com">pyinfra</a></b> (🥉24 ·  ⭐ 6.1K) - pyinfra automates/provisions/manages/deploys infrastructure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 240 · 🔀 530 · 📦 270):
+- [GitHub]() (👨‍💻 240 · 🔀 560 · 📦 280):
 
 	```
 	git clone https://github.com/Fizzadar/pyinfra
 	```
-- [PyPi](https://pypi.org/project/pyinfra) (📥 200K / month · 📦 46 · ⏱️ 27.07.2026):
+- [PyPi](https://pypi.org/project/pyinfra) (📥 200K / month · 📦 52 · ⏱️ 09.11.2026):
 	```
 	pip install pyinfra
 	```
@@ -1455,14 +1455,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install uvloop
 	```
-- [Conda](https://anaconda.org/conda-forge/uvloop) (📥 5.9M · ⏱️ 17.09.2026):
+- [Conda](https://anaconda.org/conda-forge/uvloop) (📥 6M · ⏱️ 17.09.2026):
 	```
 	conda install -c conda-forge uvloop
 	```
 </details>
 <details><summary><b><a href="https://github.com/agronholm/anyio">anyio</a></b> (🥇34 ·  ⭐ 2.6K) - High level asynchronous concurrency and networking framework that works on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/agronholm/anyio) (👨‍💻 130 · 🔀 310 · 📦 690K):
+- [GitHub](https://github.com/agronholm/anyio) (👨‍💻 130 · 🔀 310 · 📦 700K):
 
 	```
 	git clone https://github.com/agronholm/anyio
@@ -1471,23 +1471,23 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install anyio
 	```
-- [Conda](https://anaconda.org/conda-forge/anyio) (📥 48M · ⏱️ 01.11.2026):
+- [Conda](https://anaconda.org/conda-forge/anyio) (📥 49M · ⏱️ 01.11.2026):
 	```
 	conda install -c conda-forge anyio
 	```
 </details>
-<details><summary><b><a href="https://github.com/fastapi/asyncer">asyncer</a></b> (🥉26 ·  ⭐ 2.5K) - Asyncer, async and await, focused on developer experience. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fastapi/asyncer">asyncer</a></b> (🥉27 ·  ⭐ 2.5K) - Asyncer, async and await, focused on developer experience. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 25 · 🔀 87 · 📦 8.6K):
+- [GitHub]() (👨‍💻 25 · 🔀 88 · 📦 8.6K):
 
 	```
 	git clone https://github.com/tiangolo/asyncer
 	```
-- [PyPi](https://pypi.org/project/asyncer) (📥 7.8M / month · 📦 320 · ⏱️ 25.06.2026):
+- [PyPi](https://pypi.org/project/asyncer) (📥 7.8M / month · 📦 340 · ⏱️ 11.11.2026):
 	```
 	pip install asyncer
 	```
-- [Conda](https://anaconda.org/conda-forge/asyncer) (📥 60K · ⏱️ 25.06.2026):
+- [Conda](https://anaconda.org/conda-forge/asyncer) (📥 61K · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge asyncer
 	```
@@ -1499,7 +1499,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/aiokitchen/aiomisc
 	```
-- [PyPi](https://pypi.org/project/aiomisc) (📥 87K / month · 📦 62 · ⏱️ 23.10.2026):
+- [PyPi](https://pypi.org/project/aiomisc) (📥 87K / month · 📦 62 · ⏱️ 10.11.2026):
 	```
 	pip install aiomisc
 	```
@@ -1532,7 +1532,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	conda install -c conda-forge python-dotenv
 	```
 </details>
-<details><summary><b><a href="https://github.com/ipython/traitlets">traitlets</a></b> (🥈31 ·  ⭐ 650 · 📉) - A lightweight Traits like module. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/ipython/traitlets">traitlets</a></b> (🥈31 ·  ⭐ 650) - A lightweight Traits like module. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/ipython/traitlets) (👨‍💻 130 · 🔀 210 · 📦 620K):
 
@@ -1543,14 +1543,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install traitlets
 	```
-- [Conda](https://anaconda.org/conda-forge/traitlets) (📥 61M · ⏱️ 03.08.2026):
+- [Conda](https://anaconda.org/conda-forge/traitlets) (📥 62M · ⏱️ 03.08.2026):
 	```
 	conda install -c conda-forge traitlets
 	```
 </details>
 <details><summary><b><a href="https://github.com/hydra-ecosystem/omegaconf">omegaconf</a></b> (🥈30 ·  ⭐ 2.4K) - A flexible configuration library. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub]() (👨‍💻 50 · 🔀 160 · 📦 66K):
+- [GitHub]() (👨‍💻 50 · 🔀 160 · 📦 67K):
 
 	```
 	git clone https://github.com/omry/omegaconf
@@ -1559,14 +1559,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install omegaconf
 	```
-- [Conda](https://anaconda.org/conda-forge/omegaconf) (📥 3.1M · ⏱️ 10.10.2026):
+- [Conda](https://anaconda.org/conda-forge/omegaconf) (📥 3.2M · ⏱️ 10.10.2026):
 	```
 	conda install -c conda-forge omegaconf
 	```
 </details>
 <details><summary><b><a href="https://github.com/DiffSK/configobj">configobj</a></b> (🥉26 ·  ⭐ 340) - Python 3+ compatible port of the configobj library. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/DiffSK/configobj) (👨‍💻 13 · 🔀 91 · 📦 50K):
+- [GitHub](https://github.com/DiffSK/configobj) (👨‍💻 13 · 🔀 96 · 📦 50K):
 
 	```
 	git clone https://github.com/DiffSK/configobj
@@ -1611,16 +1611,16 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 
 <details><summary><b><a href="https://github.com/pallets/click">click</a></b> (🥇38 ·  ⭐ 18K) - Python composable command line interface toolkit. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/click) (👨‍💻 450 · 🔀 2K · 📦 2.4M):
+- [GitHub](https://github.com/pallets/click) (👨‍💻 450 · 🔀 3.3K · 📦 2.4M):
 
 	```
 	git clone https://github.com/pallets/click
 	```
-- [PyPi](https://pypi.org/project/click) (📥 820M / month · 📦 75K · ⏱️ 26.08.2026):
+- [PyPi](https://pypi.org/project/click) (📥 820M / month · 📦 78K · ⏱️ 06.11.2026):
 	```
 	pip install click
 	```
-- [Conda](https://anaconda.org/conda-forge/click) (📥 81M · ⏱️ 07.09.2026):
+- [Conda](https://anaconda.org/conda-forge/click) (📥 82M · ⏱️ 07.11.2026):
 	```
 	conda install -c conda-forge click
 	```
@@ -1643,23 +1643,23 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/fastapi/typer">Typer</a></b> (🥈33 ·  ⭐ 20K) - Typer, build great CLIs. Easy to code. Based on Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 110 · 🔀 980 · 📦 290K):
+- [GitHub]() (👨‍💻 110 · 🔀 1K · 📦 290K):
 
 	```
 	git clone https://github.com/tiangolo/typer
 	```
-- [PyPi](https://pypi.org/project/typer) (📥 240M / month · 📦 38K · ⏱️ 06.10.2026):
+- [PyPi](https://pypi.org/project/typer) (📥 240M / month · 📦 40K · ⏱️ 11.11.2026):
 	```
 	pip install typer
 	```
-- [Conda](https://anaconda.org/conda-forge/typer) (📥 18M · ⏱️ 07.10.2026):
+- [Conda](https://anaconda.org/conda-forge/typer) (📥 19M · ⏱️ 12.11.2026):
 	```
 	conda install -c conda-forge typer
 	```
 </details>
 <details><summary><b><a href="https://github.com/kislyuk/argcomplete">argcomplete</a></b> (🥈32 ·  ⭐ 1.6K) - Python and tab completion, better together. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/kislyuk/argcomplete) (👨‍💻 92 · 🔀 150 · 📦 77K):
+- [GitHub](https://github.com/kislyuk/argcomplete) (👨‍💻 94 · 🔀 150 · 📦 77K):
 
 	```
 	git clone https://github.com/kislyuk/argcomplete
@@ -1668,14 +1668,14 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install argcomplete
 	```
-- [Conda](https://anaconda.org/conda-forge/argcomplete) (📥 4.5M · ⏱️ 08.08.2026):
+- [Conda](https://anaconda.org/conda-forge/argcomplete) (📥 4.6M · ⏱️ 08.08.2026):
 	```
 	conda install -c conda-forge argcomplete
 	```
 </details>
 <details><summary><b><a href="https://github.com/jquast/wcwidth">wcwidth</a></b> (🥈32 ·  ⭐ 470) - Python and C11 library that measures the width of strings in a terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jquast/wcwidth) (👨‍💻 25 · 🔀 84 · 📦 780K):
+- [GitHub](https://github.com/jquast/wcwidth) (👨‍💻 25 · 🔀 87 · 📦 780K):
 
 	```
 	git clone https://github.com/jquast/wcwidth
@@ -1684,7 +1684,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install wcwidth
 	```
-- [Conda](https://anaconda.org/conda-forge/wcwidth) (📥 55M · ⏱️ 24.10.2026):
+- [Conda](https://anaconda.org/conda-forge/wcwidth) (📥 56M · ⏱️ 24.10.2026):
 	```
 	conda install -c conda-forge wcwidth
 	```
@@ -1700,7 +1700,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install configargparse
 	```
-- [Conda](https://anaconda.org/conda-forge/configargparse) (📥 2.7M · ⏱️ 28.10.2026):
+- [Conda](https://anaconda.org/conda-forge/configargparse) (📥 2.9M · ⏱️ 28.10.2026):
 	```
 	conda install -c conda-forge configargparse
 	```
@@ -1723,7 +1723,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 </details>
 <details><summary><b><a href="https://github.com/erikrose/blessings">blessings</a></b> (🥉26 ·  ⭐ 1.5K) - A thin, practical wrapper around terminal capabilities in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/erikrose/blessings) (👨‍💻 17 · 🔀 150 · 📦 11K):
+- [GitHub](https://github.com/erikrose/blessings) (👨‍💻 17 · 🔀 160 · 📦 11K):
 
 	```
 	git clone https://github.com/erikrose/blessings
@@ -1737,9 +1737,9 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	conda install -c conda-forge blessings
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/docopt-ng">docopt-ng</a></b> (🥉23 ·  ⭐ 230) - Humane command line arguments parser. Now with maintenance, typehints,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/docopt-ng">docopt-ng</a></b> (🥉24 ·  ⭐ 230) - Humane command line arguments parser. Now with maintenance, typehints,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/docopt-ng) (👨‍💻 53 · 🔀 26 · 📦 920):
+- [GitHub](https://github.com/jazzband/docopt-ng) (👨‍💻 53 · 🔀 26 · 📦 930):
 
 	```
 	git clone https://github.com/jazzband/docopt-ng
@@ -1756,7 +1756,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/kdeldycke/click-extra
 	```
-- [PyPi](https://pypi.org/project/click-extra) (📥 90K / month · 📦 61 · ⏱️ 02.11.2026):
+- [PyPi](https://pypi.org/project/click-extra) (📥 90K / month · 📦 62 · ⏱️ 06.11.2026):
 	```
 	pip install click-extra
 	```
@@ -1790,16 +1790,16 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 
 <details><summary><b><a href="https://github.com/tkem/cachetools">cachetools</a></b> (🥇34 ·  ⭐ 2.8K) - Extensible memoizing collections and decorators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tkem/cachetools) (👨‍💻 35 · 🔀 240 · 📦 710K):
+- [GitHub](https://github.com/tkem/cachetools) (👨‍💻 36 · 🔀 240 · 📦 710K):
 
 	```
 	git clone https://github.com/tkem/cachetools
 	```
-- [PyPi](https://pypi.org/project/cachetools) (📥 230M / month · 📦 5.5K · ⏱️ 31.10.2026):
+- [PyPi](https://pypi.org/project/cachetools) (📥 230M / month · 📦 5.5K · ⏱️ 07.11.2026):
 	```
 	pip install cachetools
 	```
-- [Conda](https://anaconda.org/conda-forge/cachetools) (📥 25M · ⏱️ 31.10.2026):
+- [Conda](https://anaconda.org/conda-forge/cachetools) (📥 25M · ⏱️ 07.11.2026):
 	```
 	conda install -c conda-forge cachetools
 	```
@@ -1827,23 +1827,23 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install cached-property
 	```
-- [Conda](https://anaconda.org/conda-forge/cached-property) (📥 32M · ⏱️ 25.08.2026):
+- [Conda](https://anaconda.org/conda-forge/cached-property) (📥 33M · ⏱️ 25.08.2026):
 	```
 	conda install -c conda-forge cached-property
 	```
 </details>
-<details><summary><b><a href="https://github.com/lericson/pylibmc">pylibmc</a></b> (🥉24 ·  ⭐ 480) - A Python wrapper around the libmemcached interface from TangentOrg. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/lericson/pylibmc">pylibmc</a></b> (🥉25 ·  ⭐ 490) - A Python wrapper around the libmemcached interface from TangentOrg. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/lericson/pylibmc) (👨‍💻 57 · 🔀 140 · 📦 5.9K):
+- [GitHub](https://github.com/lericson/pylibmc) (👨‍💻 59 · 🔀 140 · 📦 5.9K):
 
 	```
 	git clone https://github.com/lericson/pylibmc
 	```
-- [PyPi](https://pypi.org/project/pylibmc) (📥 390K / month · 📦 79 · ⏱️ 30.08.2022):
+- [PyPi](https://pypi.org/project/pylibmc) (📥 390K / month · 📦 100 · ⏱️ 09.11.2026):
 	```
 	pip install pylibmc
 	```
-- [Conda](https://anaconda.org/conda-forge/pylibmc) (📥 500K · ⏱️ 06.09.2026):
+- [Conda](https://anaconda.org/conda-forge/pylibmc) (📥 500K · ⏱️ 09.11.2026):
 	```
 	conda install -c conda-forge pylibmc
 	```
@@ -1876,18 +1876,18 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 
 🔗&nbsp;<b><a href="https://github.com/ml-tooling/best-of-web-python">best-of-web-python - Web UI</a></b> ( ⭐ 2.6K · 💀)  - Collection of libraries to implement web-based UIs.
 
-<details><summary><b><a href="https://github.com/kivy/kivy">kivy</a></b> (🥇29 ·  ⭐ 19K · 💤) - Open source UI framework written in Python, running on Windows, Linux,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kivy/kivy">kivy</a></b> (🥇31 ·  ⭐ 19K · 📈) - Open source UI framework written in Python, running on Windows, Linux,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kivy/kivy) (👨‍💻 640 · 🔀 3.1K · 📦 18K):
 
 	```
 	git clone https://github.com/kivy/kivy
 	```
-- [PyPi](https://pypi.org/project/kivy) (📥 170K / month · 📦 360 · ⏱️ 26.12.2024):
+- [PyPi](https://pypi.org/project/kivy) (📥 170K / month · 📦 550 · ⏱️ 08.11.2026):
 	```
 	pip install kivy
 	```
-- [Conda](https://anaconda.org/conda-forge/kivy) (📥 750K · ⏱️ 29.03.2026):
+- [Conda](https://anaconda.org/conda-forge/kivy) (📥 760K · ⏱️ 07.11.2026):
 	```
 	conda install -c conda-forge kivy
 	```
@@ -1931,7 +1931,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install toga
 	```
-- [npm](https://www.npmjs.com/package/@pybee/toga) (📥 26 / month · 📦 5 · ⏱️ 23.04.2017):
+- [npm](https://www.npmjs.com/package/@pybee/toga) (📥 41 / month · 📦 5 · ⏱️ 23.04.2017):
 	```
 	npm install @pybee/toga
 	```
@@ -1987,7 +1987,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	conda install -c conda-forge chardet
 	```
-- [npm](https://www.npmjs.com/package/@pypi/chardet) (📥 170 / month · 📦 7 · ⏱️ 20.08.2017):
+- [npm](https://www.npmjs.com/package/@pypi/chardet) (📥 190 / month · 📦 7 · ⏱️ 20.08.2017):
 	```
 	npm install @pypi/chardet
 	```
@@ -2019,7 +2019,7 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	pip install emoji
 	```
-- [Conda](https://anaconda.org/conda-forge/emoji) (📥 310K · ⏱️ 22.09.2026):
+- [Conda](https://anaconda.org/conda-forge/emoji) (📥 320K · ⏱️ 22.09.2026):
 	```
 	conda install -c conda-forge emoji
 	```
@@ -2031,23 +2031,23 @@ _General-purpose data containers as well as utilities & extensions for pandas._
 	```
 	git clone https://github.com/daviddrysdale/python-phonenumbers
 	```
-- [PyPi](https://pypi.org/project/phonenumbers) (📥 34M / month · 📦 1.1K · ⏱️ 27.10.2026):
+- [PyPi](https://pypi.org/project/phonenumbers) (📥 34M / month · 📦 1.1K · ⏱️ 06.11.2026):
 	```
 	pip install phonenumbers
 	```
-- [Conda](https://anaconda.org/conda-forge/phonenumbers) (📥 2.7M · ⏱️ 27.10.2026):
+- [Conda](https://anaconda.org/conda-forge/phonenumbers) (📥 2.7M · ⏱️ 06.11.2026):
 	```
 	conda install -c conda-forge phonenumbers
 	```
 </details>
-<details><summary><b><a href="https://github.com/jmoiron/humanize">humanize</a></b> (🥈28 ·  ⭐ 1.7K) - python humanize functions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jmoiron/humanize">humanize</a></b> (🥈29 ·  ⭐ 1.7K) - python humanize functions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jmoiron/humanize) (👨‍💻 62 · 🔀 150):
+- [GitHub](https://github.com/jmoiron/humanize) (👨‍💻 62 · 🔀 240):
 
 	```
 	git clone https://github.com/jmoiron/humanize
 	```
-- [PyPi](https://pypi.org/project/humanize) (📥 46M / month · 📦 1.9K · ⏱️ 30.06.2026):
+- [PyPi](https://pypi.org/project/humanize) (📥 46M / month · 📦 2K · ⏱️ 12.11.2026):
 	```
 	pip install humanize
 	```
@@ -2129,11 +2129,11 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	git clone https://github.com/boto/boto3
 	```
-- [PyPi](https://pypi.org/project/boto3) (📥 2.4B / month · 📦 24K · ⏱️ 04.11.2026):
+- [PyPi](https://pypi.org/project/boto3) (📥 2.4B / month · 📦 25K · ⏱️ 11.11.2026):
 	```
 	pip install boto3
 	```
-- [Conda](https://anaconda.org/conda-forge/boto3) (📥 39M · ⏱️ 04.11.2026):
+- [Conda](https://anaconda.org/conda-forge/boto3) (📥 39M · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge boto3
 	```
@@ -2181,14 +2181,14 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install alembic
 	```
-- [Conda](https://anaconda.org/conda-forge/alembic) (📥 13M · ⏱️ 22.10.2026):
+- [Conda](https://anaconda.org/conda-forge/alembic) (📥 14M · ⏱️ 22.10.2026):
 	```
 	conda install -c conda-forge alembic
 	```
 </details>
-<details><summary><b><a href="https://github.com/redis/redis-py">redis</a></b> (🥇34 ·  ⭐ 14K · 📈) - Redis Python client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/redis/redis-py">redis</a></b> (🥇34 ·  ⭐ 14K) - Redis Python client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/redis/redis-py) (👨‍💻 640 · 🔀 2.8K):
+- [GitHub](https://github.com/redis/redis-py) (👨‍💻 650 · 🔀 2.8K):
 
 	```
 	git clone https://github.com/redis/redis-py
@@ -2197,23 +2197,23 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install redis
 	```
-- [Conda](https://anaconda.org/conda-forge/redis-py) (📥 3.1M · ⏱️ 31.07.2026):
+- [Conda](https://anaconda.org/conda-forge/redis-py) (📥 3.2M · ⏱️ 31.07.2026):
 	```
 	conda install -c conda-forge redis-py
 	```
 </details>
-<details><summary><b><a href="https://github.com/PyMySQL/PyMySQL">PyMySQL</a></b> (🥇33 ·  ⭐ 7.8K) - MySQL client library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PyMySQL/PyMySQL">PyMySQL</a></b> (🥇33 ·  ⭐ 7.9K) - MySQL client library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/PyMySQL/PyMySQL) (👨‍💻 140 · 🔀 1.4K · 📦 300K):
 
 	```
 	git clone https://github.com/PyMySQL/PyMySQL
 	```
-- [PyPi](https://pypi.org/project/PyMySQL) (📥 75M / month · 📦 3.4K · ⏱️ 17.09.2026):
+- [PyPi](https://pypi.org/project/PyMySQL) (📥 75M / month · 📦 3.8K · ⏱️ 09.11.2026):
 	```
 	pip install PyMySQL
 	```
-- [Conda](https://anaconda.org/conda-forge/pymysql) (📥 2.7M · ⏱️ 24.09.2026):
+- [Conda](https://anaconda.org/conda-forge/pymysql) (📥 2.7M · ⏱️ 09.11.2026):
 	```
 	conda install -c conda-forge pymysql
 	```
@@ -2225,7 +2225,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	git clone https://github.com/Azure/azure-sdk-for-python
 	```
-- [PyPi](https://pypi.org/project/azure-storage-blob) (📥 95M / month · 📦 2.2K · ⏱️ 29.10.2026):
+- [PyPi](https://pypi.org/project/azure-storage-blob) (📥 95M / month · 📦 2.2K · ⏱️ 05.11.2026):
 	```
 	pip install azure-storage-blob
 	```
@@ -2245,7 +2245,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install google-cloud-storage
 	```
-- [Conda](https://anaconda.org/conda-forge/google-cloud-storage) (📥 8.3M · ⏱️ 09.10.2026):
+- [Conda](https://anaconda.org/conda-forge/google-cloud-storage) (📥 8.4M · ⏱️ 09.10.2026):
 	```
 	conda install -c conda-forge google-cloud-storage
 	```
@@ -2316,16 +2316,16 @@ _Libraries for connecting to, operating, and querying databases._
 </details>
 <details><summary><b><a href="https://github.com/dpkp/kafka-python">kafka-python</a></b> (🥈32 ·  ⭐ 5.9K) - Python client for Apache Kafka. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dpkp/kafka-python) (👨‍💻 240 · 🔀 1.5K · 📦 37K):
+- [GitHub](https://github.com/dpkp/kafka-python) (👨‍💻 250 · 🔀 1.5K · 📦 37K):
 
 	```
 	git clone https://github.com/dpkp/kafka-python
 	```
-- [PyPi](https://pypi.org/project/kafka-python) (📥 17M / month · 📦 1.2K · ⏱️ 26.10.2026):
+- [PyPi](https://pypi.org/project/kafka-python) (📥 17M / month · 📦 1.2K · ⏱️ 06.11.2026):
 	```
 	pip install kafka-python
 	```
-- [Conda](https://anaconda.org/conda-forge/kafka-python) (📥 540K · ⏱️ 27.10.2026):
+- [Conda](https://anaconda.org/conda-forge/kafka-python) (📥 550K · ⏱️ 06.11.2026):
 	```
 	conda install -c conda-forge kafka-python
 	```
@@ -2348,7 +2348,7 @@ _Libraries for connecting to, operating, and querying databases._
 </details>
 <details><summary><b><a href="https://github.com/mongodb/mongo-python-driver">pymongo</a></b> (🥈32 ·  ⭐ 4.4K) - PyMongo - the Official MongoDB Python driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mongodb/mongo-python-driver) (👨‍💻 270 · 🔀 1.2K):
+- [GitHub](https://github.com/mongodb/mongo-python-driver) (👨‍💻 280 · 🔀 1.2K):
 
 	```
 	git clone https://github.com/mongodb/mongo-python-driver
@@ -2357,7 +2357,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install pymongo
 	```
-- [Conda](https://anaconda.org/conda-forge/pymongo) (📥 9M · ⏱️ 15.10.2026):
+- [Conda](https://anaconda.org/conda-forge/pymongo) (📥 9.2M · ⏱️ 15.10.2026):
 	```
 	conda install -c conda-forge pymongo
 	```
@@ -2389,7 +2389,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install prometheus_client
 	```
-- [Conda](https://anaconda.org/conda-forge/prometheus_client) (📥 30M · ⏱️ 25.07.2026):
+- [Conda](https://anaconda.org/conda-forge/prometheus_client) (📥 31M · ⏱️ 25.07.2026):
 	```
 	conda install -c conda-forge prometheus_client
 	```
@@ -2410,18 +2410,18 @@ _Libraries for connecting to, operating, and querying databases._
 	conda install -c conda-forge python-confluent-kafka
 	```
 </details>
-<details><summary><b><a href="https://github.com/fastapi/sqlmodel">sqlmodel</a></b> (🥈30 ·  ⭐ 18K) - SQLModel, SQL databases in Python, designed for simplicity,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>pydantic</code></summary>
+<details><summary><b><a href="https://github.com/fastapi/sqlmodel">sqlmodel</a></b> (🥈30 ·  ⭐ 19K) - SQLModel, SQL databases in Python, designed for simplicity,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>pydantic</code></summary>
 
-- [GitHub]() (👨‍💻 120 · 🔀 890 · 📦 34K):
+- [GitHub]() (👨‍💻 120 · 🔀 900 · 📦 34K):
 
 	```
 	git clone https://github.com/tiangolo/sqlmodel
 	```
-- [PyPi](https://pypi.org/project/sqlmodel) (📥 24M / month · 📦 2.2K · ⏱️ 06.10.2026):
+- [PyPi](https://pypi.org/project/sqlmodel) (📥 24M / month · 📦 2.2K · ⏱️ 11.11.2026):
 	```
 	pip install sqlmodel
 	```
-- [Conda](https://anaconda.org/conda-forge/sqlmodel) (📥 480K · ⏱️ 08.10.2026):
+- [Conda](https://anaconda.org/conda-forge/sqlmodel) (📥 500K · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge sqlmodel
 	```
@@ -2433,7 +2433,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	git clone https://github.com/PyMySQL/mysqlclient
 	```
-- [PyPi](https://pypi.org/project/mysqlclient) (📥 16M / month · 📦 1.2K · ⏱️ 14.09.2026):
+- [PyPi](https://pypi.org/project/mysqlclient) (📥 16M / month · 📦 1.2K · ⏱️ 10.11.2026):
 	```
 	pip install mysqlclient
 	```
@@ -2485,7 +2485,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install awswrangler
 	```
-- [Conda](https://anaconda.org/conda-forge/awswrangler) (📥 970K · ⏱️ 01.11.2026):
+- [Conda](https://anaconda.org/conda-forge/awswrangler) (📥 980K · ⏱️ 01.11.2026):
 	```
 	conda install -c conda-forge awswrangler
 	```
@@ -2538,7 +2538,7 @@ _Libraries for connecting to, operating, and querying databases._
 	conda install -c conda-forge cassandra-driver
 	```
 </details>
-<details><summary><b><a href="https://github.com/pudo/dataset">dataset</a></b> (🥉27 ·  ⭐ 4.9K · 📈) - Easy-to-use data handling for SQL data stores with support for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pudo/dataset">dataset</a></b> (🥉27 ·  ⭐ 4.9K) - Easy-to-use data handling for SQL data stores with support for implicit.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pudo/dataset) (👨‍💻 81 · 🔀 300 · 📦 5.2K):
 
@@ -2597,14 +2597,14 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install pynamodb
 	```
-- [Conda](https://anaconda.org/conda-forge/pynamodb) (📥 4.7M · ⏱️ 02.06.2025):
+- [Conda](https://anaconda.org/conda-forge/pynamodb) (📥 4.8M · ⏱️ 02.06.2025):
 	```
 	conda install -c conda-forge pynamodb
 	```
 </details>
 <details><summary><b><a href="https://github.com/piccolo-orm/piccolo">piccolos</a></b> (🥉25 ·  ⭐ 2K) - A fast, user friendly ORM and query builder which supports asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/piccolo-orm/piccolo) (👨‍💻 64 · 🔀 120 · 📦 550):
+- [GitHub](https://github.com/piccolo-orm/piccolo) (👨‍💻 64 · 🔀 120 · 📦 560):
 
 	```
 	git clone https://github.com/piccolo-orm/piccolo
@@ -2616,7 +2616,7 @@ _Libraries for connecting to, operating, and querying databases._
 </details>
 <details><summary><b><a href="https://github.com/apache/libcloud">libcloud</a></b> (🥉24 ·  ⭐ 2.1K · 💤) - Apache Libcloud is a Python library that hides differences.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/libcloud) (👨‍💻 500 · 🔀 930):
+- [GitHub](https://github.com/apache/libcloud) (👨‍💻 510 · 🔀 930):
 
 	```
 	git clone https://github.com/apache/libcloud
@@ -2637,7 +2637,7 @@ _Libraries for connecting to, operating, and querying databases._
 	```
 	pip install minio
 	```
-- [Conda](https://anaconda.org/conda-forge/minio) (📥 430K · ⏱️ 27.11.2025):
+- [Conda](https://anaconda.org/conda-forge/minio) (📥 440K · ⏱️ 27.11.2025):
 	```
 	conda install -c conda-forge minio
 	```
@@ -2676,7 +2676,7 @@ _Libraries for connecting to, operating, and querying databases._
 </details>
 <details><summary><b><a href="https://github.com/art049/odmantic">ODMantic</a></b> (🥉23 ·  ⭐ 1.2K) - Sync and Async ODM (Object Document Mapper) for MongoDB based on python.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/art049/odmantic) (👨‍💻 23 · 🔀 97 · 📦 3.6K):
+- [GitHub](https://github.com/art049/odmantic) (👨‍💻 23 · 🔀 98 · 📦 3.6K):
 
 	```
 	git clone https://github.com/art049/odmantic
@@ -2748,7 +2748,7 @@ _Libraries for connecting to, operating, and querying databases._
 </details>
 <details><summary><b><a href="https://github.com/psycopg/psycopg">psycopg3</a></b> (🥉18 ·  ⭐ 2.5K) - New generation PostgreSQL database adapter for the Python.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/psycopg/psycopg) (👨‍💻 110 · 🔀 300):
+- [GitHub](https://github.com/psycopg/psycopg) (👨‍💻 120 · 🔀 300):
 
 	```
 	git clone https://github.com/psycopg/psycopg
@@ -2770,7 +2770,7 @@ _Libraries for connecting to, operating, and querying databases._
 
 - <b><a href="https://github.com/elastic/elasticsearch-dsl-py">Elasticsearch DSL</a></b> (🥇34 ·  ⭐ 3.9K · 💀) - High level Python client for Elasticsearch. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/psycopg/psycopg2">psycopg2</a></b> (🥈32 ·  ⭐ 3.7K) - PostgreSQL database adapter for the Python.. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause-Attribution">❗️BSD-3-Clause-Attribution</a></code>
-- <b><a href="https://github.com/mkleehammer/pyodbc">pyodbc</a></b> (🥈29 ·  ⭐ 3.1K) - Python ODBC bridge. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
+- <b><a href="https://github.com/mkleehammer/pyodbc">pyodbc</a></b> (🥈31 ·  ⭐ 3.1K · 📈) - Python ODBC bridge. <code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code>
 - <b><a href="https://github.com/mongodb/motor">Motor</a></b> (🥈29 ·  ⭐ 2.5K · 💀) - Motor - the async Python driver for MongoDB and Tornado or asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/kvesteri/sqlalchemy-utils">SQLAlchemy-Utils</a></b> (🥉28 ·  ⭐ 1.3K) - Various utility functions and datatypes for SQLAlchemy. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/encode/databases">Databases</a></b> (🥉27 ·  ⭐ 4K · 💀) - Async database support for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -2806,34 +2806,34 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 	```
 	git clone https://github.com/huggingface/datasets
 	```
-- [PyPi](https://pypi.org/project/datasets) (📥 67M / month · 📦 8.2K · ⏱️ 05.10.2026):
+- [PyPi](https://pypi.org/project/datasets) (📥 67M / month · 📦 8.3K · ⏱️ 09.11.2026):
 	```
 	pip install datasets
 	```
-- [Conda](https://anaconda.org/conda-forge/datasets) (📥 3.9M · ⏱️ 08.10.2026):
+- [Conda](https://anaconda.org/conda-forge/datasets) (📥 3.9M · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge datasets
 	```
 </details>
 <details><summary><b><a href="https://github.com/joke2k/faker">Faker</a></b> (🥇35 ·  ⭐ 19K) - Faker is a Python package that generates fake data for you. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/joke2k/faker) (👨‍💻 690 · 🔀 2.1K · 📦 300K):
+- [GitHub](https://github.com/joke2k/faker) (👨‍💻 700 · 🔀 2.1K · 📦 300K):
 
 	```
 	git clone https://github.com/joke2k/faker
 	```
-- [PyPi](https://pypi.org/project/Faker) (📥 65M / month · 📦 3.8K · ⏱️ 28.10.2026):
+- [PyPi](https://pypi.org/project/Faker) (📥 65M / month · 📦 3.8K · ⏱️ 10.11.2026):
 	```
 	pip install Faker
 	```
-- [Conda](https://anaconda.org/conda-forge/faker) (📥 2.3M · ⏱️ 28.10.2026):
+- [Conda](https://anaconda.org/conda-forge/faker) (📥 2.3M · ⏱️ 11.11.2026):
 	```
 	conda install -c conda-forge faker
 	```
 </details>
 <details><summary><b><a href="https://github.com/jazzband/tablib">Tablib</a></b> (🥇31 ·  ⭐ 4.8K) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/tablib) (👨‍💻 140 · 🔀 640 · 📦 130K):
+- [GitHub](https://github.com/jazzband/tablib) (👨‍💻 140 · 🔀 650 · 📦 130K):
 
 	```
 	git clone https://github.com/jazzband/tablib
@@ -2865,7 +2865,7 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 </details>
 <details><summary><b><a href="https://github.com/martinblech/xmltodict">xmltodict</a></b> (🥈30 ·  ⭐ 5.7K · 💤) - Python module that makes working with XML feel like you are.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/martinblech/xmltodict) (👨‍💻 60 · 🔀 470 · 📦 90K):
+- [GitHub](https://github.com/martinblech/xmltodict) (👨‍💻 60 · 🔀 470 · 📦 91K):
 
 	```
 	git clone https://github.com/martinblech/xmltodict
@@ -2874,7 +2874,7 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 	```
 	pip install xmltodict
 	```
-- [Conda](https://anaconda.org/conda-forge/xmltodict) (📥 8.1M · ⏱️ 22.02.2026):
+- [Conda](https://anaconda.org/conda-forge/xmltodict) (📥 8.2M · ⏱️ 22.02.2026):
 	```
 	conda install -c conda-forge xmltodict
 	```
@@ -2934,16 +2934,16 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 	```
 	git clone https://github.com/RaRe-Technologies/smart_open
 	```
-- [PyPi](https://pypi.org/project/smart-open) (📥 57M / month · 📦 710 · ⏱️ 03.11.2026):
+- [PyPi](https://pypi.org/project/smart-open) (📥 57M / month · 📦 710 · ⏱️ 09.11.2026):
 	```
 	pip install smart-open
 	```
-- [Conda](https://anaconda.org/conda-forge/smart_open) (📥 5.6M · ⏱️ 03.11.2026):
+- [Conda](https://anaconda.org/conda-forge/smart_open) (📥 5.7M · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge smart_open
 	```
 </details>
-<details><summary><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> (🥈25 ·  ⭐ 6.4K · 📈) - A suite of utilities for converting to and working with CSV, the king.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> (🥈25 ·  ⭐ 6.4K) - A suite of utilities for converting to and working with CSV, the king of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wireservice/csvkit) (👨‍💻 120 · 🔀 700 · 📦 2.1K):
 
@@ -2977,7 +2977,7 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 </details>
 <details><summary><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b> (🥉23 ·  ⭐ 3.8K) - A Python library to extract tabular data from PDFs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/camelot-dev/camelot) (👨‍💻 81 · 🔀 550 · 📦 3.7K):
+- [GitHub](https://github.com/camelot-dev/camelot) (👨‍💻 80 · 🔀 550 · 📦 3.7K):
 
 	```
 	git clone https://github.com/camelot-dev/camelot
@@ -3081,14 +3081,14 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 
 _Libraries for data batch- and stream-processing, workflow automation, job scheduling, and other data pipeline tasks._
 
-<details><summary><b><a href="https://github.com/celery/celery">Celery</a></b> (🥇35 ·  ⭐ 29K) - Asynchronous task queue/job queue based on distributed message passing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/celery/celery">Celery</a></b> (🥇36 ·  ⭐ 29K · 📈) - Asynchronous task queue/job queue based on distributed message passing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/celery/celery) (👨‍💻 1.6K · 🔀 5.2K · 📦 190K):
+- [GitHub](https://github.com/celery/celery) (👨‍💻 1.6K · 🔀 5.3K · 📦 190K):
 
 	```
 	git clone https://github.com/celery/celery
 	```
-- [PyPi](https://pypi.org/project/celery) (📥 43M / month · 📦 3.3K · ⏱️ 18.10.2026):
+- [PyPi](https://pypi.org/project/celery) (📥 43M / month · 📦 3.4K · ⏱️ 05.11.2026):
 	```
 	pip install celery
 	```
@@ -3108,27 +3108,27 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install joblib
 	```
-- [Conda](https://anaconda.org/conda-forge/joblib) (📥 57M · ⏱️ 31.08.2026):
+- [Conda](https://anaconda.org/conda-forge/joblib) (📥 58M · ⏱️ 31.08.2026):
 	```
 	conda install -c conda-forge joblib
 	```
 </details>
-<details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥇33 ·  ⭐ 48K · 📉) - Platform to programmatically author, schedule, and monitor.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥇33 ·  ⭐ 48K) - Platform to programmatically author, schedule, and monitor workflows. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/airflow) (👨‍💻 4.8K · 🔀 18K · 📦 29):
+- [GitHub](https://github.com/apache/airflow) (👨‍💻 4.8K · 🔀 18K · 📦 32):
 
 	```
 	git clone https://github.com/apache/airflow
 	```
-- [PyPi](https://pypi.org/project/apache-airflow) (📥 7.2M / month · 📦 1.1K · ⏱️ 05.11.2026):
+- [PyPi](https://pypi.org/project/apache-airflow) (📥 7.2M / month · 📦 1.1K · ⏱️ 06.11.2026):
 	```
 	pip install apache-airflow
 	```
-- [Conda](https://anaconda.org/conda-forge/airflow) (📥 2.2M · ⏱️ 17.09.2026):
+- [Conda](https://anaconda.org/conda-forge/airflow) (📥 2.2M · ⏱️ 06.11.2026):
 	```
 	conda install -c conda-forge airflow
 	```
-- [Docker Hub](https://hub.docker.com/r/apache/airflow) (📥 1.7B · ⭐ 640 · ⏱️ 05.11.2026):
+- [Docker Hub](https://hub.docker.com/r/apache/airflow) (📥 1.7B · ⭐ 640 · ⏱️ 06.11.2026):
 	```
 	docker pull apache/airflow
 	```
@@ -3156,7 +3156,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/apache/beam
 	```
-- [PyPi](https://pypi.org/project/apache-beam) (📥 3.5M / month · 📦 200 · ⏱️ 31.10.2026):
+- [PyPi](https://pypi.org/project/apache-beam) (📥 3.5M / month · 📦 200 · ⏱️ 09.11.2026):
 	```
 	pip install apache-beam
 	```
@@ -3172,7 +3172,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/PrefectHQ/prefect
 	```
-- [PyPi](https://pypi.org/project/prefect) (📥 6.9M / month · 📦 620 · ⏱️ 05.11.2026):
+- [PyPi](https://pypi.org/project/prefect) (📥 6.9M / month · 📦 620 · ⏱️ 10.11.2026):
 	```
 	pip install prefect
 	```
@@ -3188,11 +3188,11 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/dagster-io/dagster
 	```
-- [PyPi](https://pypi.org/project/dagster) (📥 7.9M / month · 📦 460 · ⏱️ 30.10.2026):
+- [PyPi](https://pypi.org/project/dagster) (📥 7.9M / month · 📦 460 · ⏱️ 05.11.2026):
 	```
 	pip install dagster
 	```
-- [Conda](https://anaconda.org/conda-forge/dagster) (📥 3.5M · ⏱️ 30.10.2026):
+- [Conda](https://anaconda.org/conda-forge/dagster) (📥 3.5M · ⏱️ 05.11.2026):
 	```
 	conda install -c conda-forge dagster
 	```
@@ -3236,7 +3236,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/kedro-org/kedro
 	```
-- [PyPi](https://pypi.org/project/kedro) (📥 1.9M / month · 📦 170 · ⏱️ 28.09.2026):
+- [PyPi](https://pypi.org/project/kedro) (📥 1.9M / month · 📦 170 · ⏱️ 09.11.2026):
 	```
 	pip install kedro
 	```
@@ -3259,16 +3259,16 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 </details>
 <details><summary><b><a href="https://github.com/petl-developers/petl">petl</a></b> (🥈28 ·  ⭐ 1.3K) - Python Extract Transform and Load Tables of Data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/petl-developers/petl) (👨‍💻 96 · 🔀 230 · 📦 4.4K):
+- [GitHub](https://github.com/petl-developers/petl) (👨‍💻 100 · 🔀 240 · 📦 4.4K):
 
 	```
 	git clone https://github.com/petl-developers/petl
 	```
-- [PyPi](https://pypi.org/project/petl) (📥 740K / month · 📦 57 · ⏱️ 29.10.2026):
+- [PyPi](https://pypi.org/project/petl) (📥 740K / month · 📦 57 · ⏱️ 10.11.2026):
 	```
 	pip install petl
 	```
-- [Conda](https://anaconda.org/conda-forge/petl) (📥 560K · ⏱️ 30.10.2026):
+- [Conda](https://anaconda.org/conda-forge/petl) (📥 570K · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge petl
 	```
@@ -3296,7 +3296,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install huey
 	```
-- [Conda](https://anaconda.org/conda-forge/huey) (📥 330K · ⏱️ 02.11.2026):
+- [Conda](https://anaconda.org/conda-forge/huey) (📥 340K · ⏱️ 02.11.2026):
 	```
 	conda install -c conda-forge huey
 	```
@@ -3308,18 +3308,18 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/combust/mleap
 	```
-- [PyPi](https://pypi.org/project/mleap) (📥 1.7M / month · 📦 11 · ⏱️ 05.10.2026):
+- [PyPi](https://pypi.org/project/mleap) (📥 1.7M / month · 📦 11 · ⏱️ 09.11.2026):
 	```
 	pip install mleap
 	```
-- [Conda](https://anaconda.org/conda-forge/mleap) (📥 120K · ⏱️ 06.10.2026):
+- [Conda](https://anaconda.org/conda-forge/mleap) (📥 120K · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge mleap
 	```
 </details>
 <details><summary><b><a href="https://github.com/python-arq/arq">arq</a></b> (🥈25 ·  ⭐ 2.9K) - Job queues in python with asyncio and redis. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub]() (👨‍💻 67 · 🔀 210 · 📦 1.6K):
+- [GitHub]() (👨‍💻 67 · 🔀 210 · 📦 1.7K):
 
 	```
 	git clone https://github.com/samuelcolvin/arq
@@ -3335,12 +3335,12 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 </details>
 <details><summary><b><a href="https://github.com/cocoindex-io/cocoindex">CocoIndex</a></b> (🥈24 ·  ⭐ 6.1K) - Data transformation framework for AI. Ultra performant, with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cocoindex-io/cocoindex) (👨‍💻 110 · 🔀 450 · 📦 81):
+- [GitHub](https://github.com/cocoindex-io/cocoindex) (👨‍💻 110 · 🔀 450 · 📦 83):
 
 	```
 	git clone https://github.com/cocoindex-io/cocoindex
 	```
-- [PyPi](https://pypi.org/project/cocoindex) (📥 68K / month · 📦 24 · ⏱️ 05.11.2026):
+- [PyPi](https://pypi.org/project/cocoindex) (📥 68K / month · 📦 24 · ⏱️ 09.11.2026):
 	```
 	pip install cocoindex
 	```
@@ -3352,7 +3352,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/closeio/tasktiger
 	```
-- [PyPi](https://pypi.org/project/tasktiger) (📥 10K / month · 📦 2 · ⏱️ 19.10.2026):
+- [PyPi](https://pypi.org/project/tasktiger) (📥 10K / month · 📦 2 · ⏱️ 10.11.2026):
 	```
 	pip install tasktiger
 	```
@@ -3494,7 +3494,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install jmespath
 	```
-- [Conda](https://anaconda.org/conda-forge/jmespath) (📥 38M · ⏱️ 23.01.2026):
+- [Conda](https://anaconda.org/conda-forge/jmespath) (📥 39M · ⏱️ 23.01.2026):
 	```
 	conda install -c conda-forge jmespath
 	```
@@ -3576,14 +3576,14 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install attrs
 	```
-- [Conda](https://anaconda.org/conda-forge/attrs) (📥 85M · ⏱️ 19.03.2026):
+- [Conda](https://anaconda.org/conda-forge/attrs) (📥 86M · ⏱️ 19.03.2026):
 	```
 	conda install -c conda-forge attrs
 	```
 </details>
 <details><summary><b><a href="https://github.com/mahmoud/boltons">boltons</a></b> (🥈29 ·  ⭐ 6.9K) - Like builtins, but boltons. 250+ constructs, recipes, and snippets.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 120 · 🔀 510 · 📦 13K):
+- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 120 · 🔀 520 · 📦 13K):
 
 	```
 	git clone https://github.com/mahmoud/boltons
@@ -3592,7 +3592,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install boltons
 	```
-- [Conda](https://anaconda.org/conda-forge/boltons) (📥 19M · ⏱️ 08.09.2026):
+- [Conda](https://anaconda.org/conda-forge/boltons) (📥 20M · ⏱️ 08.09.2026):
 	```
 	conda install -c conda-forge boltons
 	```
@@ -3694,7 +3694,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 
 <details><summary><b><a href="https://github.com/python/cpython">cpython</a></b> (🥇35 ·  ⭐ 78K) - The Python programming language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/python/cpython) (👨‍💻 4.1K · 🔀 38K · 📦 630K):
+- [GitHub](https://github.com/python/cpython) (👨‍💻 4.2K · 🔀 37K · 📦 630K):
 
 	```
 	git clone https://github.com/python/cpython
@@ -3748,7 +3748,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install pygments
 	```
-- [Conda](https://anaconda.org/conda-forge/pygments) (📥 80M · ⏱️ 17.08.2026):
+- [Conda](https://anaconda.org/conda-forge/pygments) (📥 82M · ⏱️ 17.08.2026):
 	```
 	conda install -c conda-forge pygments
 	```
@@ -3764,7 +3764,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install pyparsing
 	```
-- [Conda](https://anaconda.org/conda-forge/pyparsing) (📥 85M · ⏱️ 22.09.2026):
+- [Conda](https://anaconda.org/conda-forge/pyparsing) (📥 86M · ⏱️ 22.09.2026):
 	```
 	conda install -c conda-forge pyparsing
 	```
@@ -3787,7 +3787,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 </details>
 <details><summary><b><a href="https://github.com/pytest-dev/pluggy">pluggy</a></b> (🥇34 ·  ⭐ 1.7K) - A minimalist production ready plugin system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pluggy) (👨‍💻 72 · 🔀 190 · 📦 860K):
+- [GitHub](https://github.com/pytest-dev/pluggy) (👨‍💻 72 · 🔀 200 · 📦 860K):
 
 	```
 	git clone https://github.com/pytest-dev/pluggy
@@ -3796,14 +3796,14 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	pip install pluggy
 	```
-- [Conda](https://anaconda.org/conda-forge/pluggy) (📥 66M · ⏱️ 15.10.2026):
+- [Conda](https://anaconda.org/conda-forge/pluggy) (📥 67M · ⏱️ 15.10.2026):
 	```
 	conda install -c conda-forge pluggy
 	```
 </details>
 <details><summary><b><a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a></b> (🥈31 ·  ⭐ 25K · 💤) - A cross-platform command-line utility that creates projects.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/cookiecutter/cookiecutter) (👨‍💻 320 · 🔀 2.2K · 📦 38K):
+- [GitHub](https://github.com/cookiecutter/cookiecutter) (👨‍💻 330 · 🔀 2.2K · 📦 38K):
 
 	```
 	git clone https://github.com/cookiecutter/cookiecutter
@@ -3817,6 +3817,22 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	conda install -c conda-forge cookiecutter
 	```
 </details>
+<details><summary><b><a href="https://github.com/arsenetar/send2trash">Send2Trash</a></b> (🥈30 ·  ⭐ 320 · 📈) - Python library to natively send files to Trash (or Recycle bin).. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/arsenetar/send2trash) (👨‍💻 23 · 🔀 56 · 📦 330K):
+
+	```
+	git clone https://github.com/arsenetar/send2trash
+	```
+- [PyPi](https://pypi.org/project/send2trash) (📥 32M / month · 📦 980 · ⏱️ 12.11.2026):
+	```
+	pip install send2trash
+	```
+- [Conda](https://anaconda.org/conda-forge/send2trash) (📥 24M · ⏱️ 12.02.2026):
+	```
+	conda install -c conda-forge send2trash
+	```
+</details>
 <details><summary><b><a href="http://fastcore.fast.ai">fastcore</a></b> (🥈29 ·  ⭐ 1.1K) - Python supercharged for fastai development. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub]() (👨‍💻 84 · 🔀 300 · 📦 14K):
@@ -3824,11 +3840,11 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	```
 	git clone https://github.com/fastai/fastcore
 	```
-- [PyPi](https://pypi.org/project/fastcore) (📥 31M / month · 📦 1.3K · ⏱️ 05.11.2026):
+- [PyPi](https://pypi.org/project/fastcore) (📥 31M / month · 📦 1.3K · ⏱️ 10.11.2026):
 	```
 	pip install fastcore
 	```
-- [Conda](https://anaconda.org/conda-forge/fastcore) (📥 430K · ⏱️ 05.11.2026):
+- [Conda](https://anaconda.org/conda-forge/fastcore) (📥 440K · ⏱️ 10.11.2026):
 	```
 	conda install -c conda-forge fastcore
 	```
@@ -3849,7 +3865,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	conda install -c conda-forge decorator
 	```
 </details>
-<details><summary><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b> (🥈28 ·  ⭐ 42K) - Diagram as Code for prototyping cloud system architectures. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b> (🥉28 ·  ⭐ 42K) - Diagram as Code for prototyping cloud system architectures. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mingrammer/diagrams) (👨‍💻 180 · 🔀 2.7K · 📦 2.6K):
 
@@ -3865,7 +3881,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 	conda install -c conda-forge diagrams
 	```
 </details>
-<details><summary><b><a href="https://github.com/boppreh/keyboard">keyboard</a></b> (🥈28 ·  ⭐ 3.8K) - Hook and simulate global keyboard events on Windows and Linux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/boppreh/keyboard">keyboard</a></b> (🥉28 ·  ⭐ 3.8K) - Hook and simulate global keyboard events on Windows and Linux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/boppreh/keyboard) (👨‍💻 41 · 🔀 430 · 📦 27K):
 
@@ -3891,22 +3907,6 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 - [PyPi](https://pypi.org/project/copier) (📥 1.4M / month · 📦 440 · ⏱️ 13.10.2026):
 	```
 	pip install copier
-	```
-</details>
-<details><summary><b><a href="https://github.com/arsenetar/send2trash">Send2Trash</a></b> (🥉27 ·  ⭐ 300 · 💤) - Python library to natively send files to Trash (or Recycle bin).. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/arsenetar/send2trash) (👨‍💻 20 · 🔀 47 · 📦 330K):
-
-	```
-	git clone https://github.com/arsenetar/send2trash
-	```
-- [PyPi](https://pypi.org/project/send2trash) (📥 32M / month · 📦 710 · ⏱️ 14.01.2026):
-	```
-	pip install send2trash
-	```
-- [Conda](https://anaconda.org/conda-forge/send2trash) (📥 24M · ⏱️ 12.02.2026):
-	```
-	conda install -c conda-forge send2trash
 	```
 </details>
 <details><summary><b><a href="https://github.com/BoboTiG/python-mss">python-mss</a></b> (🥉25 ·  ⭐ 1.3K · 💤) - An ultra fast cross-platform multiple screenshots module in pure.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3944,7 +3944,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 <details><summary>Show 8 hidden projects...</summary>
 
 - <b><a href="https://github.com/eliben/pycparser">pycparser</a></b> (🥈30 ·  ⭐ 3.6K) - Complete C99 parser in pure Python. <code>❗Unlicensed</code>
-- <b><a href="https://www.py4j.org/">py4j</a></b> (🥈28 ·  ⭐ 1.3K · 💀) - Enables Python programs to dynamically access arbitrary Java objects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://www.py4j.org/">py4j</a></b> (🥉28 ·  ⭐ 1.3K · 💀) - Enables Python programs to dynamically access arbitrary Java objects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://openpyxl.readthedocs.io">openpyxl</a></b> (🥉26 ·  ⭐ 15) - A Python library to read/write Excel 2010 xlsx/xlsm files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/explosion/catalogue">catalogue</a></b> (🥉24 ·  ⭐ 180 · 💀) - Super lightweight function registries for your library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ponty/pyscreenshot">pyscreenshot</a></b> (🥉23 ·  ⭐ 500 · 💀) - Python screenshot library, replacement for the Pillow.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
