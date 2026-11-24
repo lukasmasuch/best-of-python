@@ -673,6 +673,10 @@ projects:
     category: file-formats
     pypi_id: xlsxwriter
     conda_id: conda-forge/xlsxwriter
+  - name: pptx-toolkit
+    github_id: dunwar/pptx-toolkit
+    category: file-formats
+    pypi_id: pptx-toolkit
   - name: aiofiles
     github_id: Tinche/aiofiles
     category: file-path-utils
