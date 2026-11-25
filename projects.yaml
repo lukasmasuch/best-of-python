@@ -2016,3 +2016,8 @@ projects:
     github_id: GeiserX/Wayback-Archive
     category: data-loading
     description: Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
+  - name: AlphaSift
+    github_id: ZhuLinsen/alphasift
+    pypi_id: alphasift
+    category: others
+    description: Multi-market quantitative stock screening CLI, local web workbench, STDIO MCP server, and purged walk-forward empirical validator.
