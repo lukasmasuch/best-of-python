@@ -728,6 +728,10 @@ projects:
     category: infrastructure
     pypi_id: awscli
     conda_id: conda-forge/awscli
+  - name: cloud-audit
+    github_id: gebalamariusz/cloud-audit
+    category: infrastructure
+    pypi_id: cloud-audit
   - name: deepdiff
     github_id: seperman/deepdiff
     category: inspect
