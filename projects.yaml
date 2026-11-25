@@ -372,6 +372,9 @@ projects:
     category: infrastructure
     pypi_id: pulumi
     npm_id: '@pulumi/pulumi'
+  - name: Cloud in a Bottle
+    github_id: cloud-in-a-bottle/cloud-in-a-bottle
+    category: infrastructure
   - name: plumbum
     github_id: tomerfiliba/plumbum
     category: infrastructure
