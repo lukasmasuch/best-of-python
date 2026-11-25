@@ -1835,6 +1835,12 @@ projects:
     conda_id: conda-forge/dbt
     category: data-pipelines
     brew_id: dbt
+  - name: dlt
+    github_id: dlt-hub/dlt
+    pypi_id: dlt
+    conda_id: conda-forge/dlt
+    category: data-pipelines
+    description: Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
   - name: PyFunctional
     github_id: EntilZha/PyFunctional
     pypi_id: pyfunctional
